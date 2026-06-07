@@ -1,7 +1,25 @@
-@"
+# Python
 .venv/
 __pycache__/
 *.pyc
-.env
-data/
-"@ | Out-File .gitignore
+
+# Data
+data/raw/
+data/processed/*.parquet
+data/processed/*.pkl
+
+# Models
+models/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.pickle
+
+# Experiment tracking
+wandb/
+mlruns/
+
+# Neo4j
+neo4j/

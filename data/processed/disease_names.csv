@@ -1,0 +1,484 @@
+disease_id,disease_name
+EFO_0003060,obsolete_non-small cell lung carcinoma
+EFO_0001071,obsolete_lung carcinoma
+EFO_0010116,choline measurement
+EFO_0004995,lean body mass
+MONDO_0005147,type 1 diabetes mellitus
+MONDO_0004992,cancer
+MONDO_0016660,autosomal recessive primary microcephaly
+HP_0002017,Nausea and vomiting
+EFO_0007486,obsolete_sinusitis
+EFO_0022041,response to tramadol
+EFO_0001356,obsolete_familial amyotrophic lateral sclerosis
+MONDO_0004979,asthma
+EFO_0000341,obsolete_chronic obstructive pulmonary disease
+EFO_0000677,obsolete_mental or behavioural disorder
+EFO_0004895,obsolete_Tourette syndrome
+OBA_1000110,bone density
+EFO_0007319,obsolete_hyperprolactinemia
+HP_0001742,Nasal obstruction
+MONDO_0004985,bipolar disorder
+EFO_0008533,obsolete_dyspepsia
+EFO_0007214,obsolete_common cold
+HP_0012735,Cough
+HP_0002013,Vomiting
+EFO_0003956,obsolete_seasonal allergic rhinitis
+EFO_0005751,obsolete_eye allergy
+EFO_0000537,obsolete_hypertension
+EFO_0003756,obsolete_autism spectrum disorder
+EFO_0005252,obsolete_orthostatic hypotension
+MONDO_0005575,colorectal cancer
+EFO_0000768,idiopathic pulmonary fibrosis
+EFO_0001645,obsolete_coronary artery disease
+EFO_0005091,monocyte count
+MONDO_0014704,skeletal overgrowth-craniofacial dysmorphism-hyperelastic skin-white matter lesions syndrome
+MONDO_0032913,"congenital heart defects, multiple types, 7"
+EFO_1001901,obsolete_neuroendocrine neoplasm
+EFO_0009448,obsolete_pulmonary fibrosis
+OBA_2050068,serum albumin amount
+EFO_0006788,obsolete_anxiety disorder
+MONDO_0007079,alcohol dependence
+EFO_0007453,obsolete_postpartum depression
+EFO_0004263,obsolete_partial epilepsy
+EFO_0005058,tyrosine measurement
+EFO_0004530,triglyceride measurement
+OBA_0003460,erythrocyte volume
+EFO_0800371,octadecanedioylcarnitine (C18-DC) measurement
+MONDO_0005148,type 2 diabetes mellitus
+EFO_0000612,obsolete_myocardial infarction
+EFO_0003086,obsolete_kidney disease
+EFO_0004509,hemoglobin measurement
+MONDO_0100255,adenosine kinase deficiency
+EFO_0005757,vaginal inflammation
+EFO_0002609,obsolete_juvenile idiopathic arthritis
+MONDO_0002258,pharyngitis
+HP_0001643,Patent ductus arteriosus
+EFO_0000729,ulcerative colitis
+MONDO_0000831,thrombotic disease
+Orphanet_733,Familial adenomatous polyposis
+EFO_1001375,obsolete_Myocardial Ischemia
+EFO_0000712,cerebrovascular accident
+EFO_0002913,obsolete_Cutaneous T-cell lymphoma
+OBA_VT0001253,body height
+EFO_0008546,obsolete_poisoning
+MONDO_0005301,multiple sclerosis
+MONDO_0004975,Alzheimer disease
+EFO_1000060,obsolete_intestinal disaccharide deficiency and disaccharide malabsorption
+EFO_1001051,obsolete_mycosis fungoides
+EFO_0000565,leukemia
+EFO_0005558,obsolete_hemolytic anemia
+EFO_0003894,obsolete_acne
+EFO_0000731,obsolete_uterine fibroid
+MONDO_0008728,classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency
+EFO_0007160,obsolete_autoimmune thrombocytopenic purpura
+MONDO_0003937,spondylitis
+MONDO_0001134,essential hypertension
+MONDO_0004773,iridocyclitis
+EFO_0000676,obsolete_psoriasis
+EFO_0000574,obsolete_lymphoma
+EFO_0004255,nephrotic syndrome
+EFO_0000616,neoplasm
+HP_0006536,Airway obstruction
+MONDO_0001572,leiomyoma
+EFO_0004714,sexual dysfunction
+EFO_1001417,"obsolete_Rhinitis, Allergic, Perennial"
+EFO_0006336,diastolic blood pressure
+EFO_0005611,obsolete_opioid dependence
+EFO_0003888,obsolete_attention deficit hyperactivity disorder
+MONDO_0005041,glaucoma
+MONDO_0005271,allergic disease
+EFO_0005251,obsolete_hypotension
+HP_0001945,Fever
+EFO_0000319,cardiovascular disease
+MONDO_0015277,medullary thyroid gland carcinoma
+EFO_0000339,chronic myelogenous leukemia
+EFO_0004833,neutrophil count
+MONDO_0054695,"myopathy, centronuclear, 6, with fiber-type disproportion"
+MONDO_0024519,renal hypodysplasia/aplasia 1
+EFO_0000239,obsolete_adrenal gland pheochromocytoma
+EFO_0000681,obsolete_renal cell carcinoma
+EFO_0004532,serum gamma-glutamyl transferase measurement
+MONDO_0004643,myeloid leukemia
+EFO_1001480,metastatic colorectal cancer
+Orphanet_98994,Total congenital cataract
+MONDO_0015356,hereditary neoplastic syndrome
+HP_0001657,Prolonged QT interval
+MONDO_0017910,dehydrated hereditary stomatocytosis
+EFO_0000764,obsolete_HIV infection
+MONDO_0010979,Timothy syndrome
+EFO_0005754,obsolete_parathyroid disease
+Orphanet_93160,Hypocalcemic vitamin D-resistant rickets
+EFO_0009451,obsolete_hypoparathyroidism
+MONDO_0044300,familial adenomatous polyposis 4
+EFO_0009373,edema
+HP_0001250,Seizure
+MONDO_0018997,Noonan syndrome
+HP_0000155,Oral ulcer
+EFO_0021901,cholesterol in large LDL measurement
+OBA_1001011,phospholipid level
+MONDO_0001336,familial hyperlipidemia
+EFO_0022276,free cholesterol in VLDL measurement
+EFO_0920021,cholesteryl esters in VLDL measurement
+EFO_0022294,phospholipids in LDL measurement
+EFO_0010733,polyunsaturated fatty acid measurement
+EFO_0022148,total lipids in small VLDL
+OBA_0003277,platelet volume
+EFO_0004541,HbA1c measurement
+EFO_0004611,low density lipoprotein cholesterol measurement
+EFO_0004615,apolipoprotein B measurement
+EFO_0004527,mean corpuscular hemoglobin
+EFO_1002017,obsolete_differentiated thyroid carcinoma
+EFO_0004458,C-reactive protein measurement
+EFO_0007989,monocyte percentage of leukocytes
+EFO_0005804,obsolete_polycythemia
+EFO_0004587,lymphocyte count
+EFO_0005772,obsolete_neurodegenerative disease
+EFO_0004617,cystatin C measurement
+EFO_0004627,IGF-1 measurement
+HP_0000964,Eczematoid dermatitis
+EFO_0022265,free cholesterol in large VLDL measurement
+EFO_1001395,obsolete_Phlebitis
+EFO_0004612,high density lipoprotein cholesterol measurement
+EFO_0009050,Macrocephaly-intellectual disability-neurodevelopmental disorder-small thorax syndrome
+MONDO_0100283,overgrowth syndrome and/or cerebral malformations due to abnormalities in MTOR pathway genes
+HP_0003418,Back pain
+EFO_0009846,muscle cramp
+MONDO_0002050,depressive disorder
+EFO_1000453,obsolete_Paraganglioma
+EFO_0005917,obsolete_generalised epilepsy
+MONDO_0007844,hypogonadotropic hypogonadism 2 with or without anosmia
+MONDO_0003060,biliary tract cancer
+MONDO_0014658,severe achondroplasia-developmental delay-acanthosis nigricans syndrome
+OBA_1000032,hip circumference
+MONDO_0007793,hypochondroplasia
+EFO_0000571,obsolete_lung adenocarcinoma
+EFO_0005541,obsolete_bone development disease
+EFO_0004344,birth weight
+EFO_1000172,obsolete_cervical squamous cell carcinoma
+EFO_1000566,obsolete_Testicular Germ Cell Tumor
+Orphanet_85165,Severe achondroplasia - developmental delay - acanthosis nigricans
+Orphanet_140162,Inherited cancer-predisposing syndrome
+EFO_0004614,apolipoprotein A 1 measurement
+OBA_1001087,heart rate
+EFO_0006335,systolic blood pressure
+MONDO_0003406,sleep-wake disorder
+MONDO_0014944,short stature-brachydactyly-obesity-global developmental delay syndrome
+MONDO_0019625,familial thoracic aortic aneurysm and aortic dissection
+EFO_0003096,obsolete_Pick disease
+EFO_0005854,obsolete_allergic rhinitis
+EFO_0004190,obsolete_open-angle glaucoma
+MONDO_0004247,peptic ulcer disease
+EFO_0009869,xerostomia
+EFO_0006928,motion sickness
+EFO_0000400,diabetes mellitus
+EFO_0008560,obsolete_female infertility
+EFO_0004314,forced expiratory volume
+EFO_0003882,obsolete_osteoporosis
+EFO_0004324,body weights and measures
+EFO_0009270,heel bone mineral density
+EFO_0004842,eosinophil count
+HP_0001249,Intellectual disability
+MONDO_0013578,DYRK1A-related intellectual disability syndrome
+MONDO_0008170,ovarian cancer
+OBA_2050096,serum creatinine amount
+HP_0002140,Ischemic stroke
+MONDO_0018660,hemophilia
+EFO_0003929,obsolete_relapsing-remitting multiple sclerosis
+MONDO_0005149,pulmonary hypertension
+EFO_0009188,Red cell distribution width
+EFO_0000275,obsolete_atrial fibrillation
+MONDO_0005090,schizophrenia
+EFO_0000474,epilepsy
+EFO_0010282,gastrointestinal disease
+MONDO_0002009,major depressive disorder
+MONDO_0007254,breast cancer
+EFO_0000558,obsolete_Kaposi's sarcoma
+MONDO_0004986,urinary bladder carcinoma
+EFO_0002918,obsolete_rhabdomyosarcoma
+EFO_1001450,obsolete_Wolff-Parkinson-White Syndrome
+MONDO_0019514,hepatic veno-occlusive disease
+HP_0002315,Headache
+OBA_VT0010046,fatty acid amount
+EFO_0008589,esterified cholesterol measurement
+Orphanet_35173,X-linked dominant chondrodysplasia punctata
+MONDO_0022113,central centrifugal cicatricial alopecia
+MONDO_0008621,uncombable hair syndrome
+EFO_0022281,free cholesterol to total lipids in large VLDL percentage
+MONDO_0009315,congenital factor XII deficiency
+EFO_1000760,obsolete_rosacea
+MONDO_0011198,"spondyloepimetaphyseal dysplasia, Missouri type"
+Orphanet_98914,Presynaptic congenital myasthenic syndromes
+Orphanet_88632,Familial ocular anterior segment mesenchymal dysgenesis
+Orphanet_207,Crouzon disease
+MONDO_0001056,gastric cancer
+EFO_0009118,female reproductive endometrioid cancer
+EFO_0000180,HIV-1 infection
+EFO_0004309,platelet count
+EFO_0022312,total lipids in very large HDL measurement
+EFO_0022278,free cholesterol to total lipids in IDL percentage
+EFO_0022330,triglycerides to total lipids in large HDL percentage
+EFO_0020944,cholesteryl esters:total lipids ratio
+EFO_0000508,obsolete_genetic disorder
+MONDO_0004976,amyotrophic lateral sclerosis
+OBA_0003747,glomerular filtration rate
+EFO_0004533,alkaline phosphatase measurement
+EFO_0008526,status epilepticus
+HP_0000739,Anxiety
+MONDO_0800166,Knobloch syndrome
+MONDO_0030894,"AMED syndrome, digenic"
+EFO_0022288,free cholesterol to total lipids in very large HDL percentage
+EFO_0000211,obsolete_unspecified peripheral T-cell lymphoma
+MONDO_0010679,Duchenne muscular dystrophy
+MONDO_0016532,Lennox-Gastaut syndrome
+EFO_0009767,glycine measurement
+MONDO_0010622,recessive X-linked ichthyosis
+OBA_VT0000217,leukocyte quantity
+MONDO_0010946,hypertrophic cardiomyopathy 6
+MONDO_0014920,patterned macular dystrophy 3
+MONDO_0008824,fetal akinesia deformation sequence
+MONDO_0100101,fetal akinesia deformation sequence 1
+MONDO_0008959,CHAND syndrome
+MONDO_0019200,retinitis pigmentosa
+EFO_1001469,obsolete_Mantle cell lymphoma
+EFO_0007986,reticulocyte count
+MONDO_0044701,childhood-onset motor and cognitive regression syndrome with extrapyramidal movement disorder
+Orphanet_124,Blackfan-Diamond anemia
+EFO_0000228,obsolete_adenocarcinoma
+MONDO_0010279,terminal osseous dysplasia-pigmentary defects syndrome
+EFO_0001378,multiple myeloma
+MONDO_0021063,malignant colon neoplasm
+EFO_0001075,obsolete_ovarian carcinoma
+EFO_0007532,obsolete_uterine corpus cancer
+MONDO_0014817,"nephrotic syndrome, type 12"
+EFO_0004346,neuroimaging measurement
+MONDO_0015780,dyskeratosis congenita
+MONDO_0013517,beta-thalassemia HBB/LCRB
+EFO_1001950,obsolete_colon carcinoma
+Orphanet_300751,Familial dilated cardiomyopathy with conduction defect due to LMNA mutation
+MONDO_0016971,limb-girdle muscular dystrophy
+EFO_0004305,erythrocyte count
+MONDO_0800025,Teebi hypertelorism syndrome 1
+HP_0004804,Congenital hemolytic anemia
+EFO_0004999,N-glycan measurement
+MONDO_0007962,megalodactyly
+MONDO_0023655,"immunodeficiency 14b, autosomal recessive"
+EFO_0022223,metabolite ratio
+MONDO_0013171,purine nucleoside phosphorylase deficiency
+MONDO_0009329,pulmonary venoocclusive disease 2
+EFO_0005140,obsolete_autoimmune disease
+EFO_0000538,obsolete_hypertrophic cardiomyopathy
+MONDO_0017979,autoimmune lymphoproliferative syndrome
+EFO_0000222,acute myeloid leukemia
+EFO_0009454,obsolete_gastric ulcer
+Orphanet_552,MODY
+EFO_0010934,aspartate aminotransferase to alanine aminotransferase ratio
+MONDO_0100062,developmental and epileptic encephalopathy
+EFO_0005106,body composition measurement
+EFO_0004234,obsolete_erectile dysfunction
+EFO_0022304,saturated fatty acids measurement
+EFO_0800494,pimeloylcarnitine/3-methyladipoylcarnitine (C7-DC) measurement
+EFO_0004574,total cholesterol measurement
+EFO_0022146,phospholipids in small VLDL measurement
+EFO_0022266,free cholesterol in LDL measurement
+EFO_0004529,lipid measurement
+EFO_0800074,3-methylglutarylcarnitine (2) measurement
+EFO_0022225,cholesterol in medium VLDL measurement
+EFO_0800380,adipoylcarnitine (C6-DC) measurement
+EFO_0022164,phospholipids in IDL measurement
+MONDO_0018479,congenital adrenal hyperplasia
+HP_0002014,Diarrhea
+MONDO_0043797,spinal cord injury
+MONDO_0041052,postherpetic neuralgia
+HP_0000863,Central diabetes insipidus
+HP_0002902,Hyponatremia
+MONDO_0001382,hepatorenal syndrome
+EFO_0008620,obsolete_Polycystic Kidney Disease
+EFO_0003144,heart failure
+OBA_0002272,reticulocyte amount
+HP_0001000,Abnormality of skin pigmentation
+EFO_0005801,obsolete_cholesterol embolism
+EFO_0005763,pulse pressure measurement
+Orphanet_199351,Adult-onset dystonia-parkinsonism
+MONDO_0044637,infantile-onset generalized dyskinesia with orofacial involvement
+HP_0012531,Pain
+EFO_0001068,obsolete_malaria
+Orphanet_277,Severe combined immunodeficiency due to adenosine deaminase deficiency
+EFO_0004908,testosterone measurement
+MONDO_0019313,lymphatic malformation
+EFO_0010682,liver transplant
+Orphanet_324262,Autosomal recessive congenital cerebellar ataxia due to MGLUR1 deficiency
+MONDO_0016033,Cornelia de Lange syndrome
+MONDO_0030673,"spastic paraplegia 86, autosomal recessive"
+EFO_1001485,obsolete_acromegaly
+EFO_0005687,obsolete_fibromyalgia
+EFO_0004272,anemia (phenotype)
+EFO_1001219,obsolete_trigeminal neuralgia
+EFO_0004138,bundle branch block
+MONDO_0005180,Parkinson disease
+EFO_0003944,obsolete_tibia fracture
+EFO_0022291,phosphoglycerides measurement
+HP_0003124,Hypercholesterolemia
+EFO_0010118,sphingomyelin measurement
+EFO_0022255,cholesteryl esters to total lipids in small LDL percentage
+EFO_0022257,cholesteryl esters to total lipids in very large HDL percentage
+EFO_0022270,free cholesterol in small HDL measurement
+EFO_0022144,triglycerides in very small VLDL measurement
+EFO_0022307,total lipids in HDL measurement
+EFO_0801140,C36:4 phosphatidylethanolamine measurement
+EFO_0022158,triglycerides in small HDL measurement
+EFO_0007805,HDL cholesterol change measurement
+EFO_0022236,cholesterol to total lipids in large VLDL percentage
+OBA_2050062,serum alanine aminotransferase amount
+EFO_0022273,free cholesterol in very large HDL measurement
+EFO_0022272,free cholesterol in small VLDL measurement
+EFO_0022320,triglycerides in LDL measurement
+EFO_0022309,total lipids in lipoprotein particles measurement
+EFO_0022325,triglycerides in very large VLDL measurement
+EFO_0022149,triglycerides in IDL measurement
+EFO_0009765,alanine measurement
+EFO_0000195,metabolic syndrome
+EFO_0920032,concentration of medium HDL particles measurement
+EFO_0022317,triglycerides in HDL measurement
+EFO_0022311,total lipids in small HDL measurement
+EFO_0022188,concentration of large HDL particles measurement
+EFO_0007984,platelet component distribution width
+EFO_0022233,cholesterol to total lipids in IDL percentage
+EFO_0022232,cholesterol to total lipids in chylomicrons and extremely large VLDL percentage
+EFO_0010574,epithelial cell adhesion molecule measurement
+Orphanet_240071,Classical progressive supranuclear palsy
+Orphanet_240085,Progressive supranuclear palsy - parkinsonism
+EFO_0022298,phospholipids in very large HDL measurement
+EFO_0010351,cholesteryl ester measurement
+EFO_0022251,cholesteryl esters to total lipids in medium HDL percentage
+EFO_0022293,phospholipids in HDL measurement
+EFO_0022336,triglycerides to total lipids in small HDL percentage
+MONDO_0014375,congenital diarrhea 7 with exudative enteropathy
+EFO_0005584,obsolete_seborrheic keratosis
+MONDO_0008315,prostate cancer
+Orphanet_145,Hereditary breast and ovarian cancer syndrome
+EFO_0002618,pancreatic carcinoma
+EFO_0022175,total lipids in large VLDL
+MONDO_0014405,STING-associated vasculopathy with onset in infancy
+EFO_0000365,colorectal adenocarcinoma
+MONDO_0002629,bone osteosarcoma
+EFO_1000044,obsolete_pancreatic adenocarcinoma
+EFO_0000673,obsolete_prostate adenocarcinoma
+EFO_0022183,phospholipids in medium LDL measurement
+EFO_0022178,triglycerides in large VLDL measurement
+EFO_0022287,free cholesterol to total lipids in small VLDL percentage
+EFO_0006505,obsolete_chronic bronchitis
+HP_0000924,Abnormality of the skeletal system
+MONDO_0001574,capillary disorder
+MONDO_0024533,"pulmonary hypertension, primary, 1"
+MONDO_0010880,"telangiectasia, hereditary hemorrhagic, type 2"
+MONDO_0010264,X-linked adrenal hypoplasia congenita
+EFO_0009805,whole body water mass
+MONDO_0020745,ventricular arrhythmias due to cardiac ryanodine receptor calcium release deficiency syndrome
+MONDO_0015626,Charcot-Marie-Tooth disease
+MONDO_0009454,immunodeficiency-centromeric instability-facial anomalies syndrome 1
+EFO_1000785,obsolete_Sezary's disease
+EFO_0006525,cigarettes per day measurement
+EFO_0004838,calcium measurement
+EFO_0000756,obsolete_melanoma
+EFO_0003958,obsolete_sunburn
+EFO_0009582,sprain
+MONDO_0005178,osteoarthritis
+Orphanet_140927,Benign familial neonatal-infantile seizures
+MONDO_0100352,episodic kinesigenic dyskinesia 1
+MONDO_0002639,glossopharyngeal nerve disorder
+EFO_0009963,bipolar I disorder
+MONDO_0005277,migraine disorder
+EFO_0010701,mean reticulocyte volume
+EFO_0011011,sitting height measurement
+MONDO_0009288,glycogen storage disease Ib
+MONDO_0018240,TRPV4-related bone disorder
+MONDO_0011801,"spinocerebellar ataxia, autosomal recessive, with axonal neuropathy 1"
+MONDO_0800028,"dyskinesia with orofacial involvement, autosomal dominant"
+OBA_0000061,circulating fibrinogen levels
+EFO_0004274,obsolete_gout
+EFO_0004528,mean corpuscular hemoglobin concentration
+EFO_0020946,phospholipids:total lipids ratio
+HP_0000556,Retinal dystrophy
+EFO_0004536,total blood protein measurement
+MONDO_0030924,proteasome-associated autoinflammatory syndrome 5
+EFO_0003869,obsolete_breast neoplasm
+EFO_0007347,obsolete_listeriosis
+Orphanet_1065,Aniridia - cerebellar ataxia - intellectual disability
+MONDO_0017325,early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation
+EFO_1000860,obsolete_cerebral atherosclerosis
+EFO_0022169,phospholipids in large VLDL measurement
+EFO_0022302,polyunsaturated fatty acids to monounsaturated fatty acids ratio
+EFO_0022261,degree of unsaturation measurement
+EFO_0022249,cholesteryl esters to total lipids in large LDL percentage
+EFO_0022283,free cholesterol to total lipids in medium LDL percentage
+EFO_0022333,triglycerides to total lipids in medium HDL percentage
+MONDO_0010396,"developmental and epileptic encephalopathy, 2"
+Orphanet_228337,CLN10 disease
+EFO_0000304,obsolete_breast adenocarcinoma
+MONDO_0015278,familial pancreatic carcinoma
+MONDO_0009044,Crigler-Najjar syndrome
+MONDO_0014518,platelet-type bleeding disorder 19
+MONDO_0021661,coronary atherosclerosis
+EFO_0022271,free cholesterol in small LDL measurement
+EFO_0022234,cholesterol to total lipids in large HDL percentage
+EFO_0022244,cholesterol to total lipids in very large VLDL percentage
+EFO_0022253,cholesteryl esters to total lipids in medium VLDL percentage
+OBA_2050113,LDL particle size
+EFO_0003914,obsolete_atherosclerosis
+EFO_0022246,cholesteryl esters to total lipids in chylomicrons and extremely large VLDL percentage
+EFO_0004911,obsolete_familial hypercholesterolemia
+MONDO_0007982,"metaphyseal chondrodysplasia, Jansen type"
+MONDO_0030727,developmental and epileptic encephalopathy 101
+EFO_0004338,body weight
+OBA_VT0002460,blood immunoglobulin amount
+MONDO_0010132,familial thyroid dyshormonogenesis
+EFO_0010257,"global developmental delay, progressive ataxia, and elevated glutamine"
+MONDO_0002280,anemia
+MONDO_0008667,von Hippel-Lindau disease
+EFO_0000349,obsolete_clear cell renal carcinoma
+MONDO_0012729,"erythrocytosis, familial, 4"
+EFO_0005689,non-high density lipoprotein cholesterol measurement
+HP_0000079,Abnormality of the urinary system
+MONDO_0030513,dystonia 33
+EFO_0000305,breast carcinoma
+MONDO_0007537,lateral meningocele syndrome
+MONDO_0013711,peripheral neuropathy-myopathy-hoarseness-hearing loss syndrome
+EFO_0004746,lipoprotein-associated phospholipase A(2) measurement
+EFO_0022306,total lipids in chylomicrons and extremely large VLDL measurement
+OBA_2050296,chylomicron amount
+EFO_0006807,linoleic acid measurement
+EFO_0022260,concentration of chylomicrons and extremely large VLDL particles measurement
+EFO_0022315,total phospholipids in lipoprotein particles measurement
+EFO_0003777,obsolete_heart disease
+EFO_0022308,total lipids in LDL measurement
+MONDO_0957876,"neuronopathy, distal hereditary motor, autosomal recessive 10"
+MONDO_0859314,developmental and epileptic encephalopathy 108
+EFO_0020945,free cholesterol:total lipids ratio
+EFO_0022258,cholesteryl esters to total lipids in very large VLDL percentage
+EFO_0020094,Lambert-Eaton myasthenic syndrome
+HP_0002411,Myokymia
+MONDO_0010747,X-linked dystonia-parkinsonism
+EFO_0004531,urate measurement
+EFO_0022284,free cholesterol to total lipids in medium VLDL percentage
+EFO_0004329,alcohol drinking
+OBA_1000959,chloride amount
+MONDO_0021698,alcohol-related disorders
+MONDO_0015791,peripheral precocious puberty
+MONDO_0002244,factor VII deficiency
+EFO_0004194,obsolete_IGA glomerulonephritis
+MONDO_0011173,thrombocythemia 2
+EFO_0003893,obsolete_ovarian neoplasm
+MONDO_0044970,mitochondrial disease
+Orphanet_70595,Sensory ataxic neuropathy - dysarthria - ophthalmoparesis
+HP_0001258,Spastic paraplegia
+MONDO_0014209,early-onset progressive neurodegeneration-blindness-ataxia-spasticity syndrome
+Orphanet_352709,CLN13 disease
+EFO_0007800,body fat percentage
+MONDO_0957247,"congenital myopathy 22A, classic"
+HP_0003326,Myalgia
+MONDO_0019952,congenital myopathy
+HP_0001907,Thromboembolism
+EFO_0003827,obsolete_pulmonary embolism
+EFO_0000684,respiratory system disease
+MONDO_0009395,hyperostosis corticalis generalisata
+MONDO_0009324,Hartnup disease

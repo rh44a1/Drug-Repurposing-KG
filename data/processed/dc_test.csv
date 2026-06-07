@@ -1,0 +1,520 @@
+drug_name,inchikey,smiles,disease_name,umls_cui,snomed_conceptid,approval_year,approval_source
+baloxavir marboxil,RZVPBGBYGMDSBG-GGAORHGYSA-N,COC(=O)OCOC1=C2N(C=CC1=O)N([C@@H]1COCCN1C2=O)[C@H]1C2=CC=C(F)C(F)=C2CSC2=CC=CC=C12,Influenza,C0021400,6142004.0,2021,EMA
+tagraxofusp,,,Blastic plasmacytoid dendritic cell neoplasm,C1301363,445105005.0,2021,EMA
+latanoprost,GGXICVAJURFBLW-CEYXHVGTSA-N,CC(C)OC(=O)CCC\C=C/C[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1CC[C@@H](O)CCC1=CC=CC=C1,Open-angle glaucoma,C0017612,84494001.0,2021,EMA
+latanoprost,GGXICVAJURFBLW-CEYXHVGTSA-N,CC(C)OC(=O)CCC\C=C/C[C@H]1[C@@H](O)C[C@@H](O)[C@@H]1CC[C@@H](O)CCC1=CC=CC=C1,Ocular hypertension,C0028840,4210003.0,2021,EMA
+trastuzumab deruxtecan,,,Advanced HER2positive gastric or gastroesophageal junction (GEJ) adenocarcinoma,C0346619,187734007.0,2021,EMA
+trastuzumab deruxtecan,,,Metastatic human epidermal growth factor 2 positive carcinoma of breast,C4721209,459391000124109.0,2021,EMA
+vericiguat,QZFHIXARHDBPBY-UHFFFAOYSA-N,COC(=O)NC1=C(N=C(N=C1N)C2=NN(C3=C2C=C(C=N3)F)CC4=CC=CC=C4F)N,Heart failure,C0018801,84114007.0,2021,FDA
+vericiguat,QZFHIXARHDBPBY-UHFFFAOYSA-N,COC(=O)NC1=C(N=C(N=C1N)C2=NN(C3=C2C=C(C=N3)F)CC4=CC=CC=C4F)N,Chronic heart failure,C0264716,48447003.0,2021,FDA
+cabotegravir,WCWSTNLSLKSJPK-LKFCYVNXSA-N,C[C@H]1CO[C@H]2N1C(=O)C3=C(C(=O)C(=CN3C2)C(=O)NCC4=C(C=C(C=C4)F)F)O,Human immunodeficiency virus I infection,C0276500,40780007.0,2021,FDA
+voclosporin,BICRTLVBTLFLRD-PTWUADNWSA-N,CC[C@@H]1NC(=O)[C@H]([C@H](O)[C@H](C)C\C=C\C=C)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H](CC(C)C)N(C)C(=O)CN(C)C1=O)C(C)C,Noninfectious Uveitis,,,2021,FDA
+voclosporin,BICRTLVBTLFLRD-PTWUADNWSA-N,CC[C@@H]1NC(=O)[C@H]([C@H](O)[C@H](C)C\C=C\C=C)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H](CC(C)C)N(C)C(=O)CN(C)C1=O)C(C)C,Lupus nephritis,C0024143,68815009.0,2021,FDA
+glucagon,MASNOZXLGMXCHN-ZLPAWPGGSA-N,CSCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC1=CNC2=C1C=CC=C2)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@@H](NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](C)NC(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](CO)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CO)NC(=O)[C@@H](NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@@H](NC(=O)CNC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CO)NC(=O)[C@@H](N)CC1=CNC=N1)[C@@H](C)O)[C@@H](C)O)C(C)C)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H]([C@@H](C)O)C(O)=O,Severe hypoglycaemia in patients with diabetes,C0342313,237633009.0,2021,EMA
+glucagon,MASNOZXLGMXCHN-ZLPAWPGGSA-N,CSCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC1=CNC2=C1C=CC=C2)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@@H](NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](C)NC(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](CO)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CO)NC(=O)[C@@H](NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@@H](NC(=O)CNC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CO)NC(=O)[C@@H](N)CC1=CNC=N1)[C@@H](C)O)[C@@H](C)O)C(C)C)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H]([C@@H](C)O)C(O)=O,Gastrointestinal Radiography Adjunct,,,2021,EMA
+glucagon,MASNOZXLGMXCHN-ZLPAWPGGSA-N,CSCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC1=CNC2=C1C=CC=C2)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@@H](NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](C)NC(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](CO)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CO)NC(=O)[C@@H](NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@@H](NC(=O)CNC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CO)NC(=O)[C@@H](N)CC1=CNC=N1)[C@@H](C)O)[C@@H](C)O)C(C)C)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H]([C@@H](C)O)C(O)=O,Hypoglycemic disorder,C0020615,237630007.0,2021,EMA
+tepotinib,AHYMHWXQRWRBKT-UHFFFAOYSA-N,CN1CCC(CC1)COC2=CN=C(N=C2)C3=CC=CC(=C3)CN4C(=O)C=CC(=N4)C5=CC=CC(=C5)C#N,Non-small cell lung cancer,C0007131,254637007.0,2021,FDA
+tepotinib,AHYMHWXQRWRBKT-UHFFFAOYSA-N,CN1CCC(CC1)COC2=CN=C(N=C2)C3=CC=CC(=C3)CN4C(=O)C=CC(=N4)C5=CC=CC(=C5)C#N,Metastatic non-small cell lung cancer,C0278987,,2021,FDA
+fostemsavir,SWMDAPWAQQTBOG-UHFFFAOYSA-N,CC1=NN(C=N1)C2=NC=C(C3=C2N(C=C3C(=O)C(=O)N4CCN(CC4)C(=O)C5=CC=CC=C5)COP(=O)(O)O)OC,Human immunodeficiency virus I infection,C0276500,40780007.0,2021,EMA
+umbralisib,IUVCFHHAEHNCFT-INIZCTEOSA-N,C[C@@H](C1=C(C(=O)C2=C(O1)C=CC(=C2)F)C3=CC(=CC=C3)F)N4C5=NC=NC(=C5C(=N4)C6=CC(=C(C=C6)OC(C)C)F)N,Relapsed or refractory marginal zone lymphoma,C1367654,447100004.0,2021,FDA
+umbralisib,IUVCFHHAEHNCFT-INIZCTEOSA-N,C[C@@H](C1=C(C(=O)C2=C(O1)C=CC(=C2)F)C3=CC(=CC=C3)F)N4C5=NC=NC(=C5C(=N4)C6=CC(=C(C=C6)OC(C)C)F)N,Relapsed or refractory follicular lymphoma,C0024301,55150002.0,2021,FDA
+moxetumomab pasudotox,,,Hairy cell leukemia,C0023443,118613001.0,2021,EMA
+fedratinib,JOOXLOJCABQBSG-UHFFFAOYSA-N,CC1=CN=C(NC2=CC=C(OCCN3CCCC3)C=C2)N=C1NC1=CC=CC(=C1)S(=O)(=O)NC(C)(C)C,Myelofibrosis,C0026987,52967002.0,2021,EMA
+fedratinib,JOOXLOJCABQBSG-UHFFFAOYSA-N,CC1=CN=C(NC2=CC=C(OCCN3CCCC3)C=C2)N=C1NC1=CC=CC(=C1)S(=O)(=O)NC(C)(C)C,Primary myelofibrosis,C0001815,307651005.0,2021,EMA
+fedratinib,JOOXLOJCABQBSG-UHFFFAOYSA-N,CC1=CN=C(NC2=CC=C(OCCN3CCCC3)C=C2)N=C1NC1=CC=CC(=C1)S(=O)(=O)NC(C)(C)C,Post-essential thrombocythaemia myelofibrosis,C3805233,871541008.0,2021,EMA
+fedratinib,JOOXLOJCABQBSG-UHFFFAOYSA-N,CC1=CN=C(NC2=CC=C(OCCN3CCCC3)C=C2)N=C1NC1=CC=CC(=C1)S(=O)(=O)NC(C)(C)C,Post-polycythaemia vera myelofibrosis,C3805232,871540009.0,2021,EMA
+selpercatinib,XIIOFHFUYBLOLW-UHFFFAOYSA-N,CC(C)(COC1=CN2C(=C(C=N2)C#N)C(=C1)C3=CN=C(C=C3)N4CC5CC(C4)N5CC6=CN=C(C=C6)OC)O,Medullary thyroid carcinoma,C0238462,255032005.0,2021,EMA
+selpercatinib,XIIOFHFUYBLOLW-UHFFFAOYSA-N,CC(C)(COC1=CN2C(=C(C=N2)C#N)C(=C1)C3=CN=C(C=C3)N4CC5CC(C4)N5CC6=CN=C(C=C6)OC)O,Metastatic non-small cell lung cancer,C0278987,,2021,EMA
+evinacumab,,,Homozygous familial hypercholesterolemia,C0342881,238078005.0,2021,FDA
+tucatinib,SDEAXTCZPQIFQM-UHFFFAOYSA-N,CC1=CC(NC2=NC=NC3=C2C=C(NC2=NC(C)(C)CO2)C=C3)=CC=C1OC1=CC2=NC=NN2C=C1,Metastatic human epidermal growth factor 2 positive carcinoma of breast,C4721209,459391000124109.0,2021,EMA
+selpercatinib,XIIOFHFUYBLOLW-UHFFFAOYSA-N,CC(C)(COC1=CN2C(=C(C=N2)C#N)C(=C1)C3=CN=C(C=C3)N4CC5CC(C4)N5CC6=CN=C(C=C6)OC)O,Advanced RET fusion-positive non-small cell lung cancer,C0007131,254637007.0,2021,EMA
+selpercatinib,XIIOFHFUYBLOLW-UHFFFAOYSA-N,CC(C)(COC1=CN2C(=C(C=N2)C#N)C(=C1)C3=CN=C(C=C3)N4CC5CC(C4)N5CC6=CN=C(C=C6)OC)O,Metastasis from malignant tumor of thyroid,C1282509,315007008.0,2021,EMA
+selpercatinib,XIIOFHFUYBLOLW-UHFFFAOYSA-N,CC(C)(COC1=CN2C(=C(C=N2)C#N)C(=C1)C3=CN=C(C=C3)N4CC5CC(C4)N5CC6=CN=C(C=C6)OC)O,Advanced RET fusion-positive thyroid cancer,C0007115,363478007.0,2021,EMA
+trilaciclib,PDGKHKMBHVFCMG-UHFFFAOYSA-N,CN1CCN(CC1)C2=CN=C(C=C2)NC3=NC=C4C=C5C(=O)NCC6(N5C4=N3)CCCCC6,Extensive-stage small cell lung cancer,C4303663,458321000124102.0,2021,FDA
+trilaciclib,PDGKHKMBHVFCMG-UHFFFAOYSA-N,CN1CCN(CC1)C2=CN=C(C=C2)NC3=NC=C4C=C5C(=O)NCC6(N5C4=N3)CCCCC6,Chemotherapy-induced myelosuppression,C0854467,370569000.0,2021,FDA
+casimersen,,,Duchenne muscular dystrophy,C0013264,76670001.0,2021,FDA
+fosdenopterin,CZAKJJUNKNPTTO-AJFJRRQVSA-N,C1[C@@H]2[C@@H](C([C@H]3[C@@H](O2)NC4=C(N3)C(=O)NC(=N4)N)(O)O)OP(=O)(O1)O,Molybdenum cofactor deficiency type A,C0268119,29692004.0,2021,FDA
+melphalan flufenamide,YQZNKYXGZSVEHI-VXKWHMMOSA-N,CCOC(=O)[C@H](CC1=CC=C(C=C1)F)NC(=O)[C@H](CC2=CC=C(C=C2)N(CCCl)CCCl)N,Relapsed or refractory multiple myeloma,C0026764,109989006.0,2021,FDA
+serdexmethylphenidate,UBZPNQRBUOBBLN-PWRODBHTSA-N,COC(=O)[C@@H]([C@H]1CCCCN1C(=O)OC[N+]2=CC=CC(=C2)C(=O)N[C@@H](CO)C(=O)[O-])C3=CC=CC=C3,Attention deficit hyperactivity disorder,C1263846,406506008.0,2021,FDA
+tivozanib,SPMVMDHWKHCIDT-UHFFFAOYSA-N,COC1=C(OC)C=C2C(OC3=CC=C(NC(=O)NC4=NOC(C)=C4)C(Cl)=C3)=CC=NC2=C1,Renal cell carcinoma,C0007134,702391001.0,2021,FDA
+ponesimod,LPAUOXUZGSBGDU-ULCCENQXSA-N,CCCN=C1N(C(=O)/C(=C/C2=CC(=C(C=C2)OC[C@@H](CO)O)Cl)/S1)C3=CC=CC=C3C,Relapsing forms of multiple sclerosis,C0026769,24700007.0,2021,FDA
+dasiglucagon,RZRMFQMNPDPAIX-AJTOSFMRSA-N,C[C@H]([C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=C(C=C2)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC3=CC=C(C=C3)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)NC(C)(C)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC4=CC=CC=C4)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC5=CNC6=CC=CC=C65)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CO)C(=O)N[C@@H]([C@@H](C)O)C(=O)O)NC(=O)CNC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CC7=CNC=N7)N)O,Hypoglycemia due to diabetes mellitus,C0342313,237633009.0,2021,FDA
+salmeterol,GIIZNNXWQWCKIB-UHFFFAOYSA-N,OCC1=C(O)C=CC(=C1)C(O)CNCCCCCCOCCCCC1=CC=CC=C1,Pulmonary emphysema,C0034067,87433001.0,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,Plaque psoriasis,C0406317,200965009.0,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,Primary cutaneous T-cell lymphoma,C0079773,400122007.0,2021,EMA
+remimazolam,CYHWMBVXXDIZNZ-KRWDZBQOSA-N,CC1=CN=C2N1C3=C(C=C(C=C3)Br)C(=N[C@H]2CCC(=O)OC)C4=CC=CC=N4,Sedation,C0344106,72641008.0,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,Chronic Non-Allergic Rhinitis,,,2021,EMA
+salmeterol,GIIZNNXWQWCKIB-UHFFFAOYSA-N,OCC1=C(O)C=CC(=C1)C(O)CNCCCCCCOCCCCC1=CC=CC=C1,COPD Associated with Chronic Bronchitis,,,2021,EMA
+icosapent ethyl,SSQPWTVBQMWLSZ-AAQCHOMXSA-N,CCOC(=O)CCC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CC,Hyperlipidemia,C0020473,55822004.0,2021,EMA
+thiotepa,FOCVUCIESVLUNU-UHFFFAOYSA-N,S=P(N1CC1)(N1CC1)N1CC1,Pericardial Malignant Effusions,,,2021,EMA
+salmeterol,GIIZNNXWQWCKIB-UHFFFAOYSA-N,OCC1=C(O)C=CC(=C1)C(O)CNCCCCCCOCCCCC1=CC=CC=C1,Exercise-Induced Bronchospasm Prevention,,,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,Pruritus ani,C0033775,90446007.0,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,COPD Associated with Chronic Bronchitis,,,2021,EMA
+pemigatinib,HCDMJFOHIXMBOV-UHFFFAOYSA-N,CCN1C(=O)N(CC2=CN=C3NC(CN4CCOCC4)=CC3=C12)C1=C(F)C(OC)=CC(OC)=C1F,FGFR1 fusion genepositive myeloid/lymphoid neoplasm,C3150773,721301004.0,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,Atopic dermatitis,C0011615,24079001.0,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,Asthma management,C1318955,406162001.0,2021,EMA
+thiotepa,FOCVUCIESVLUNU-UHFFFAOYSA-N,S=P(N1CC1)(N1CC1)N1CC1,Non-Hodgkin's lymphoma,C0024305,118601006.0,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,Granuloma annulare,C0085074,65508009.0,2021,EMA
+cenobamate,GFHAXPJGXSQLPT-VIFPVBQESA-N,NC(=O)O[C@@H](CN1N=CN=N1)C1=CC=CC=C1Cl,Epilepsy having focal-onset seizures,C0014544,84757009.0,2021,EMA
+thiotepa,FOCVUCIESVLUNU-UHFFFAOYSA-N,S=P(N1CC1)(N1CC1)N1CC1,Malignant lymphoma,C0024299,118600007.0,2021,EMA
+salmeterol,GIIZNNXWQWCKIB-UHFFFAOYSA-N,OCC1=C(O)C=CC(=C1)C(O)CNCCCCCCOCCCCC1=CC=CC=C1,Bronchospasm Prevention with COPD,,,2021,EMA
+thiotepa,FOCVUCIESVLUNU-UHFFFAOYSA-N,S=P(N1CC1)(N1CC1)N1CC1,Malignant tumor of ovary,C1140680,363443007.0,2021,EMA
+thiotepa,FOCVUCIESVLUNU-UHFFFAOYSA-N,S=P(N1CC1)(N1CC1)N1CC1,Peritoneal Malignant Effusions,,,2021,EMA
+cenobamate,GFHAXPJGXSQLPT-VIFPVBQESA-N,NC(=O)O[C@@H](CN1N=CN=N1)C1=CC=CC=C1Cl,Partial seizure,C0014547,29753000.0,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,Pruritus of genital organs,C0033777,267802000.0,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,Allergic asthma,C0155877,389145006.0,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,Lichen simplex chronicus,C0149922,53891004.0,2021,EMA
+salmeterol,GIIZNNXWQWCKIB-UHFFFAOYSA-N,OCC1=C(O)C=CC(=C1)C(O)CNCCCCCCOCCCCC1=CC=CC=C1,Allergic asthma,C0155877,389145006.0,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,Seborrheic dermatitis,C0036508,50563003.0,2021,EMA
+selinexor,DEVSOMFAQLZNKR-RJRFIUFISA-N,FC(F)(F)C1=CC(=CC(=C1)C1=NN(\C=C/C(=O)NNC2=NC=CN=C2)C=N1)C(F)(F)F,Relapse multiple myeloma,C2349261,452291000124109.0,2021,EMA
+icosapent ethyl,SSQPWTVBQMWLSZ-AAQCHOMXSA-N,CCOC(=O)CCC\C=C/C\C=C/C\C=C/C\C=C/C\C=C/CC,Hypertriglyceridemia,C0020557,302870006.0,2021,EMA
+thiotepa,FOCVUCIESVLUNU-UHFFFAOYSA-N,S=P(N1CC1)(N1CC1)N1CC1,Hodgkin's disease,C0019829,118599009.0,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,Bronchospasm Prevention with COPD,,,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,Allergic rhinitis,C2607914,61582004.0,2021,EMA
+thiotepa,FOCVUCIESVLUNU-UHFFFAOYSA-N,S=P(N1CC1)(N1CC1)N1CC1,Allogeneic bone marrow transplantation,C0149615,58390007.0,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,Eruption of skin,C0015230,271807003.0,2021,EMA
+pemigatinib,HCDMJFOHIXMBOV-UHFFFAOYSA-N,CCN1C(=O)N(CC2=CN=C3NC(CN4CCOCC4)=CC3=C12)C1=C(F)C(OC)=CC(OC)=C1F,Biliary tract cancer,C0750952,363415003.0,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,Scalp psoriasis,C0406326,238608008.0,2021,EMA
+salmeterol,GIIZNNXWQWCKIB-UHFFFAOYSA-N,OCC1=C(O)C=CC(=C1)C(O)CNCCCCCCOCCCCC1=CC=CC=C1,Adjunct Therapy to Achieve Long-term Asthma Control,,,2021,EMA
+thiotepa,FOCVUCIESVLUNU-UHFFFAOYSA-N,S=P(N1CC1)(N1CC1)N1CC1,Malignant tumor of urinary bladder,C0005684,399326009.0,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,Contact dermatitis,C0011616,40275004.0,2021,EMA
+salmeterol,GIIZNNXWQWCKIB-UHFFFAOYSA-N,OCC1=C(O)C=CC(=C1)C(O)CNCCCCCCOCCCCC1=CC=CC=C1,Non-allergic asthma,C0155880,266361008.0,2021,EMA
+pemigatinib,HCDMJFOHIXMBOV-UHFFFAOYSA-N,CCN1C(=O)N(CC2=CN=C3NC(CN4CCOCC4)=CC3=C12)C1=C(F)C(OC)=CC(OC)=C1F,Malignant neoplasm of common bile duct (& [carcinoma]),C1541061,187785004.0,2021,EMA
+thiotepa,FOCVUCIESVLUNU-UHFFFAOYSA-N,S=P(N1CC1)(N1CC1)N1CC1,Pleural Malignant Effusions,,,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,Discoid lupus erythematosus,C0024138,200938002.0,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,Non-allergic asthma,C0155880,266361008.0,2021,EMA
+thiotepa,FOCVUCIESVLUNU-UHFFFAOYSA-N,S=P(N1CC1)(N1CC1)N1CC1,Carcinoma of female breast,C3163805,447782002.0,2021,EMA
+risdiplam,ASKZRYGFUPSJPN-UHFFFAOYSA-N,CC1=CC(=NN2C1=NC(=C2)C)C3=CC(=O)N4C=C(C=CC4=N3)N5CCNC6(C5)CC6,Spinal muscular atrophy,C0026847,5262007.0,2021,EMA
+fluticasone propionate,WMWTYOKRWGGJOA-CENSZEJFSA-N,CCC(=O)O[C@@]1([C@H](C)C[C@H]2[C@@H]3C[C@H](F)C4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@]12C)C(=O)SCF,Pulmonary emphysema,C0034067,87433001.0,2021,EMA
+somapacitan,,,Adult growth hormone deficiency,C1720505,421684006.0,2021,EMA
+viloxazine,YWPHCCPCQOJSGZ-UHFFFAOYSA-N,CCOC1=CC=CC=C1OCC1CNCCO1,Cataplexy and narcolepsy,C0751362,193042000.0,2021,FDA
+viloxazine,YWPHCCPCQOJSGZ-UHFFFAOYSA-N,CCOC1=CC=CC=C1OCC1CNCCO1,Attention deficit hyperactivity disorder,C1263846,406506008.0,2021,FDA
+estetrol,AJIPIJNNOJSSQC-NYLIRDPKSA-N,C[C@]12CC[C@H]3[C@H]([C@@H]1[C@H]([C@H]([C@@H]2O)O)O)CCC4=C3C=CC(=C4)O,Prevent pregnancy,C0029151,5935008.0,2021,FDA
+dostarlimab,,,Recurrent or advanced endometrial cancer,C0476089,254878006.0,2021,EMA
+dostarlimab,,,Recurrent or advanced endometrial cancer,C0476089,254878006.0,2021,FDA
+loncastuximab tesirine,,,Relapsed or refractory large B-cell lymphoma,C0079731,109979007.0,2021,FDA
+loncastuximab tesirine,,,Diffuse large B-cell lymphoma,C0079744,46732000.0,2021,FDA
+potassium hydrogencarbonate,,,Hypokalemia,C0020621,43339004.0,2021,EMA
+potassium citrate,,,Calcium renal calculus,C1959799,427649000.0,2021,EMA
+potassium citrate,,,Hypokalemia Prevention,,,2021,EMA
+potassium citrate,,,Renal tubular acidosis,C0001126,1776003.0,2021,EMA
+potassium citrate,,,Calcium Oxalate Renal Calculi,,,2021,EMA
+potassium hydrogencarbonate,,,Hiatal Hernia with Reflux Esophagitis,,,2021,EMA
+potassium hydrogencarbonate,,,Gastroesophageal reflux disease,C0017168,235595009.0,2021,EMA
+potassium hydrogencarbonate,,,Gastric Hypersecretory Conditions,,,2021,EMA
+potassium hydrogencarbonate,,,Heartburn,C0018834,16331000.0,2021,EMA
+potassium citrate,,,Hypokalemia,C0020621,43339004.0,2021,EMA
+potassium citrate,,,Uric acid renal calculus,C0558595,274401005.0,2021,EMA
+potassium hydrogencarbonate,,,Indigestion,C0013395,162031009.0,2021,EMA
+potassium citrate,,,Calcium Phosphate Renal Calculi,,,2021,EMA
+potassium hydrogencarbonate,,,Hypokalemia Prevention,,,2021,EMA
+potassium hydrogencarbonate,,,Peptic ulcer,C0030920,13200003.0,2021,EMA
+berotralstat,UXNXMBYCBRBRFD-MUUNZHRXSA-N,C1CC1CN[C@@H](C2=CC(=C(C=C2)F)NC(=O)C3=CC(=NN3C4=CC=CC(=C4)CN)C(F)(F)F)C5=CC=CC(=C5)C#N,Hereditary angioneurotic edema,C0019243,82966003.0,2021,EMA
+pegcetacoplan,,,Paroxysmal nocturnal hemoglobinuria,C0024790,1963002.0,2021,FDA
+pegcetacoplan,,,Geographic atrophy secondary to age-related macular degeneration,C0271083,414875008.0,2021,FDA
+drospirenone,METQSPRSQINEEU-HXCATZOESA-N,C[C@]12CC[C@H]3[C@@H]([C@H]4C[C@H]4C4=CC(=O)CC[C@]34C)[C@@H]1[C@@H]1C[C@@H]1[C@@]21CCC(=O)O1,Acne vulgaris,C0001144,88616000.0,2021,EMA
+estetrol,AJIPIJNNOJSSQC-NYLIRDPKSA-N,C[C@]12CC[C@H]3[C@H]([C@@H]1[C@H]([C@H]([C@@H]2O)O)O)CCC4=C3C=CC(=C4)O,Prevent pregnancy,C0029151,5935008.0,2021,EMA
+drospirenone,METQSPRSQINEEU-HXCATZOESA-N,C[C@]12CC[C@H]3[C@@H]([C@H]4C[C@H]4C4=CC(=O)CC[C@]34C)[C@@H]1[C@@H]1C[C@@H]1[C@@]21CCC(=O)O1,Atrophic vulva,C0156393,248861000.0,2021,EMA
+duvelisib,SJVQHLPISAIATJ-ZDUSSCGKSA-N,C[C@H](NC1=NC=NC2=C1N=CN2)C1=CC2=C(C(Cl)=CC=C2)C(=O)N1C1=CC=CC=C1,"Chronic lymphoid leukemia, disease",C0023434,92814006.0,2021,EMA
+duvelisib,SJVQHLPISAIATJ-ZDUSSCGKSA-N,C[C@H](NC1=NC=NC2=C1N=CN2)C1=CC2=C(C(Cl)=CC=C2)C(=O)N1C1=CC=CC=C1,Malignant lymphoma - small lymphocytic,C0855095,302841002.0,2021,EMA
+drospirenone,METQSPRSQINEEU-HXCATZOESA-N,C[C@]12CC[C@H]3[C@@H]([C@H]4C[C@H]4C4=CC(=O)CC[C@]34C)[C@@H]1[C@@H]1C[C@@H]1[C@@]21CCC(=O)O1,Contraception,C0700589,13197004.0,2021,EMA
+duvelisib,SJVQHLPISAIATJ-ZDUSSCGKSA-N,C[C@H](NC1=NC=NC2=C1N=CN2)C1=CC2=C(C(Cl)=CC=C2)C(=O)N1C1=CC=CC=C1,Follicular non-Hodgkin's lymphoma,C0024301,308121000.0,2021,EMA
+ponesimod,LPAUOXUZGSBGDU-ULCCENQXSA-N,CCCN=C1N(C(=O)/C(=C/C2=CC(=C(C=C2)OC[C@@H](CO)O)Cl)/S1)C3=CC=CC=C3C,Relapsing forms of multiple sclerosis,C0026769,24700007.0,2021,EMA
+drospirenone,METQSPRSQINEEU-HXCATZOESA-N,C[C@]12CC[C@H]3[C@@H]([C@H]4C[C@H]4C4=CC(=O)CC[C@]34C)[C@@H]1[C@@H]1C[C@@H]1[C@@]21CCC(=O)O1,Atrophic vaginitis,C0221392,52441000.0,2021,EMA
+drospirenone,METQSPRSQINEEU-HXCATZOESA-N,C[C@]12CC[C@H]3[C@@H]([C@H]4C[C@H]4C4=CC(=O)CC[C@]34C)[C@@H]1[C@@H]1C[C@@H]1[C@@]21CCC(=O)O1,Dysmenorrhea,C0013390,266599000.0,2021,EMA
+drospirenone,METQSPRSQINEEU-HXCATZOESA-N,C[C@]12CC[C@H]3[C@@H]([C@H]4C[C@H]4C4=CC(=O)CC[C@]34C)[C@@H]1[C@@H]1C[C@@H]1[C@@]21CCC(=O)O1,Premenstrual dysphoric disorder,C0520676,596004.0,2021,EMA
+drospirenone,METQSPRSQINEEU-HXCATZOESA-N,C[C@]12CC[C@H]3[C@@H]([C@H]4C[C@H]4C4=CC(=O)CC[C@]34C)[C@@H]1[C@@H]1C[C@@H]1[C@@]21CCC(=O)O1,Menopausal flushing,C0600142,198436008.0,2021,EMA
+drospirenone,METQSPRSQINEEU-HXCATZOESA-N,C[C@]12CC[C@H]3[C@@H]([C@H]4C[C@H]4C4=CC(=O)CC[C@]34C)[C@@H]1[C@@H]1C[C@@H]1[C@@]21CCC(=O)O1,Controlled ovarian stimulation,C3160898,732970000.0,2021,EMA
+amivantamab,,,Advanced or metastatic non-small cell lung cancer with EGFR exon 20 insertion mutations,C3840002,703228009.0,2021,FDA
+piflufolastat F-18,OLWVRJUNLXQDSP-MVBOSPHXSA-N,OC(=O)CC[C@H](NC(=O)N[C@@H](CCCCNC(=O)C1=CC=C([18F])N=C1)C(O)=O)C(O)=O,Positron emission tomography,C0032743,82918005.0,2021,FDA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Itching of ear,C0849907,699392007.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Mastoidectomy Cavity Infections,,,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Disorder of musculoskeletal system,C0026857,928000.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Hemorrhoids,C0019112,70153002.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Psoriasis with arthropathy,C0003872,33339001.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Recurrent herpes simplex labialis,C1274321,402892009.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Mycosis fungoides,C0026948,118618005.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Idiopathic thrombocytopenic purpura,C0043117,32273002.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Diagnostic Test for Cushing's Syndrome,,,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Primary adrenocortical insufficiency,C0001403,373662000.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Cerebral edema,C0006114,2032001.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Nephrotic syndrome,C0027726,52254009.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Edema of larynx,C0023052,51599000.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Otitis externa,C0029878,3135009.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Bursitis,C0006444,84017003.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Scalp psoriasis,C0406326,238608008.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Superficial Ocular Infection,,,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Severe adrenal insufficiency,C0151467,24867002.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Löffler's syndrome,C0242459,64936001.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Corneal ulcer,C0010043,91514001.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Transplanted organ rejection,C0345468,213148006.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Humoral hypercalcemia of malignancy,C0149911,47709007.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Angioedema,C0002994,41291007.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Cyclitis,C0010543,17657000.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Contact dermatitis,C0011616,40275004.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Pruritus ani,C0033775,90446007.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Disorder of eye,C0015397,371405004.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Thyroiditis,C0040147,82119001.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Allergic conjunctivitis,C0009766,473460002.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Pemphigus,C0030807,65172003.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Rosacea,C0035854,398909004.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Gingival Disorders,,,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Inflammatory bowel disease,C0021390,24526004.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Post-Op Ocular Inflammation,,,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Systemic Dermatomyositis,,,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Erythroblastic Anemia,,,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Crohn's disease,C0010346,34000006.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Corneal abrasion,C0010032,85848002.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Multiple sclerosis,C0026769,24700007.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Seborrheic dermatitis,C0036508,50563003.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Psoriasis,C0033860,9014002.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Plaque psoriasis,C0406317,200965009.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Berylliosis,C0005138,8247009.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Sarcoidosis,C0036202,31541009.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Asthma,C0004096,195967001.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Erythema multiforme,C0014742,36715001.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Allergic rhinitis,C2607914,61582004.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Tinea pedis,C0040259,6020002.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Articular gout,C0003868,48440001.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Blepharoconjunctivitis,C0005743,68659002.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Autoimmune disease,C0004364,85828009.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Hodgkin's disease,C0019829,118599009.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Acquired thrombocytopenia,C0154301,74576004.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Tinea cruris,C1384589,399029005.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Systemic lupus erythematosus,C0024141,55464009.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Ulcerative colitis,C0009324,64766004.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Infective otitis externa,C0021355,86981007.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Chronic ulcerative proctitis,C2937222,52231000.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Lichen simplex chronicus,C0149922,53891004.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Granuloma annulare,C0085074,65508009.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Non-Hodgkin's lymphoma,C0024305,118601006.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Acute lymphoid leukemia,C0023449,91857003.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Synovitis due to Osteoarthritis,,,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Infection by larvae of Trichinella spiralis,C0040896,88264003.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Transfusion reaction due to serum protein reaction,C0036830,72284000.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Herpes zoster keratitis,C1275687,397573005.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Synovitis,C0039103,416209007.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Eruption of skin,C0015230,271807003.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Acne vulgaris,C0001144,88616000.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Congenital adrenal hyperplasia,C0001627,237751000.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Post traumatic osteoarthritis,C2894027,699262001.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Bacterial keratitis,C0854211,314557000.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Uveitis,C0042164,128473001.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Proctitis,C0033246,3951002.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Rheumatoid arthritis,C0003873,69896004.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Tendinitis,C0039503,34840004.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Staphylococcus Aureus Otitis Externa,,,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Rheumatic heart disease,C0035439,23685000.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Tinea corporis,C0040252,84849002.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Autoimmune hemolytic anemia,C0002880,413603009.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Primary cutaneous T-cell lymphoma,C0079773,400122007.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Transfusion Reaction Urticaria,,,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Infective blepharitis,C0729587,312219000.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Iritis,C0022081,65074000.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Keratitis,C0022568,5888003.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Discoid lupus erythematosus,C0024138,200938002.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Erythroderma,C0011606,399992009.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Congenital hypoplastic anemia,C1260899,88854002.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Atopic dermatitis,C0011615,24079001.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Inflammatory dermatosis,C3875321,703938007.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Malignant otitis externa due to Pseudomonas aeruginosa,C0395818,232230009.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Pruritus of genital organs,C0033777,267802000.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Adrenal cortical hypofunction,C0405580,386584007.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Ankylosing spondylitis,C0038013,9631008.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Aspiration pneumonitis,C1761609,155597006.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Punctate keratopathy,C0423234,246936005.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Dermatitis herpetiformis,C0011608,111196000.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Adrenogenital disorder,C0701163,267395000.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Iridocyclitis,C0022073,77971008.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Tenosynovitis,C0039520,67801009.0,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Minor Bacterial Skin Infections,,,2021,EMA
+hydrocortisone,JYGXADMDTFJGBT-VWUMJDOOSA-N,C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@]2(O)C(=O)CO,Aphthous ulcer of mouth,C0038363,426965005.0,2021,EMA
+samidorphan,RYIDHLJADOKWFM-UHFFFAOYSA-N,C1CC1CN2CCC34CC(=O)CCC3(C2CC5=C4C(=C(C=C5)C(=O)N)O)O,Bipolar I disorder,C0853193,371596008.0,2021,FDA
+sotorasib,NXQKSXLFSAEQCZ-UHFFFAOYSA-N,CC(C)C1=C(N2C(=O)N=C(N3CCN(CC3C)C(=O)C=C)C3=CC(F)=C(N=C23)C2=C(F)C=CC=C2O)C(C)=CC=N1,KRAS G12C-mutated locally advanced or metastatic non-small cell lung cancer,C0007131,254637007.0,2021,FDA
+samidorphan,RYIDHLJADOKWFM-UHFFFAOYSA-N,C1CC1CN2CCC34CC(=O)CCC3(C2CC5=C4C(=C(C=C5)C(=O)N)O)O,Schizophrenia,C0036341,58214004.0,2021,FDA
+ibrexafungerp,BODYFEUFKHPRCK-ZCZMVWJSSA-N,C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C,Vulvovaginal candidiasis,C0700345,72605008.0,2021,FDA
+ibrexafungerp,BODYFEUFKHPRCK-ZCZMVWJSSA-N,C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C,Candidiasis of vagina,C0006852,72934000.0,2021,FDA
+aducanumab,,,Alzheimer's disease,C0002395,26929004.0,2021,FDA
+evinacumab,,,Homozygous familial hypercholesterolemia,C0342881,238078005.0,2021,EMA
+selumetinib,CYOHGALHFOKKQC-UHFFFAOYSA-N,CN1C=NC2=C(F)C(NC3=CC=C(Br)C=C3Cl)=C(C=C12)C(=O)NOCCO,Plexiform neurofibroma,C0206728,403818001.0,2021,EMA
+selumetinib,CYOHGALHFOKKQC-UHFFFAOYSA-N,CN1C=NC2=C(F)C(NC3=CC=C(Br)C=C3Cl)=C(C=C12)C(=O)NOCCO,Neurofibromatosis type 1,C0027831,92824003.0,2021,EMA
+satralizumab,,,Neuromyelitis optica,C0027873,25044007.0,2021,EMA
+finerenone,BTBHLEZXCOBLCY-QGZVFWFLSA-N,CCOC1=NC=C(C2=C1[C@@H](C(=C(N2)C)C(=O)N)C3=C(C=C(C=C3)C#N)OC)C,Chronic kidney disease (CKD) associated with type 2 diabetes (T2D),C3662038,771000119108.0,2021,FDA
+belumosudil,GKHIVNAUVKXIIY-UHFFFAOYSA-N,CC(C)NC(=O)COC1=CC=CC(=C1)C2=NC3=CC=CC=C3C(=N2)NC4=CC5=C(C=C4)NN=C5,Chronic graft-versus-host disease (chronic GVHD),C0867389,402356004.0,2021,FDA
+tralokinumab,,,Moderate to severe atopic dermatitis,C0011615,24079001.0,2021,EMA
+tirbanibulin,HUNGUWOZPQBXGX-UHFFFAOYSA-N,C1COCCN1CCOC2=CC=C(C=C2)C3=CN=C(C=C3)CC(=O)NCC4=CC=CC=C4,Actinic keratosis,C0022602,201101007.0,2021,EMA
+vericiguat,QZFHIXARHDBPBY-UHFFFAOYSA-N,COC(=O)NC1=C(N=C(N=C1N)C2=NN(C3=C2C=C(C=N3)F)CC4=CC=CC=C4F)N,Heart failure,C0018801,84114007.0,2021,EMA
+vericiguat,QZFHIXARHDBPBY-UHFFFAOYSA-N,COC(=O)NC1=C(N=C(N=C1N)C2=NN(C3=C2C=C(C=N3)F)CC4=CC=CC=C4F)N,Chronic heart failure,C0264716,48447003.0,2021,EMA
+relugolix,AOMXMOCNKJTRQP-UHFFFAOYSA-N,CN(C)CC1=C(SC2=C1C(=O)N(C(=O)N2CC3=C(C=CC=C3F)F)C4=NN=C(C=C4)OC)C5=CC=C(C=C5)NC(=O)NOC,Uterine fibroids,C0042133,95315005.0,2021,EMA
+relugolix,AOMXMOCNKJTRQP-UHFFFAOYSA-N,CN(C)CC1=C(SC2=C1C(=O)N(C(=O)N2CC3=C(C=CC=C3F)F)C4=NN=C(C=C4)OC)C5=CC=C(C=C5)NC(=O)NOC,Pain associated with endometriosis,C0014175,129103003.0,2021,EMA
+odevixibat,XULSCZPZVQIMFM-IPZQJPLYSA-N,CCCCC1(CN(C2=CC(=C(C=C2S(=O)(=O)N1)OCC(=O)N[C@H](C3=CC=C(C=C3)O)C(=O)N[C@@H](CC)C(=O)O)SC)C4=CC=CC=C4)CCCC,Pruritus in progressive familial intrahepatic cholestasis (PFIC),C0268312,74162007.0,2021,EMA
+fexinidazole,MIWWSGDADVMLTG-UHFFFAOYSA-N,CN1C(=CN=C1COC2=CC=C(C=C2)SC)[N+](=O)[O-],Human African trypanosomiasis (HAT) due to Trypanosoma brucei gambiense,C0041228,27031003.0,2021,FDA
+relugolix,AOMXMOCNKJTRQP-UHFFFAOYSA-N,CN(C)CC1=C(SC2=C1C(=O)N(C(=O)N2CC3=C(C=CC=C3F)F)C4=NN=C(C=C4)OC)C5=CC=C(C=C5)NC(=O)NOC,Malignant tumor of prostate,C0376358,399068003.0,2021,EMA
+relugolix,AOMXMOCNKJTRQP-UHFFFAOYSA-N,CN(C)CC1=C(SC2=C1C(=O)N(C(=O)N2CC3=C(C=CC=C3F)F)C4=NN=C(C=C4)OC)C5=CC=C(C=C5)NC(=O)NOC,Menorrhagia,C0025323,386692008.0,2021,EMA
+relugolix,AOMXMOCNKJTRQP-UHFFFAOYSA-N,CN(C)CC1=C(SC2=C1C(=O)N(C(=O)N2CC3=C(C=CC=C3F)F)C4=NN=C(C=C4)OC)C5=CC=C(C=C5)NC(=O)NOC,Lower abdominal pain,C0232495,54586004.0,2021,EMA
+relugolix,AOMXMOCNKJTRQP-UHFFFAOYSA-N,CN(C)CC1=C(SC2=C1C(=O)N(C(=O)N2CC3=C(C=CC=C3F)F)C4=NN=C(C=C4)OC)C5=CC=C(C=C5)NC(=O)NOC,Abnormal uterine bleeding due to uterine fibroid,C5190725,1.6754891000119106e+16,2021,EMA
+odevixibat,XULSCZPZVQIMFM-IPZQJPLYSA-N,CCCCC1(CN(C2=CC(=C(C=C2S(=O)(=O)N1)OCC(=O)N[C@H](C3=CC=C(C=C3)O)C(=O)N[C@@H](CC)C(=O)O)SC)C4=CC=CC=C4)CCCC,Pruritus in progressive familial intrahepatic cholestasis (PFIC),C0268312,74162007.0,2021,FDA
+anifrolumab,,,Moderate to severe systemic lupus erythematosus (SLE),C0024141,55464009.0,2021,FDA
+avalglucosidase alfa,,,Pompe disease,C0342751,274864009.0,2021,FDA
+avalglucosidase alfa,,,Late-onset Pompe disease,C0342753,722343009.0,2021,FDA
+belzutifan,LOMMPXLFBTZENJ-ZACQAIPSSA-N,CS(=O)(=O)C1=C2[C@@H]([C@@H]([C@@H](C2=C(C=C1)OC3=CC(=CC(=C3)C#N)F)F)F)O,Von Hippel-Lindau (VHL) disease,C0019562,46659004.0,2021,FDA
+roxadustat,YOZBGTLTNGAVFU-UHFFFAOYSA-N,CC1=C2C=C(OC3=CC=CC=C3)C=CC2=C(O)C(=N1)C(=O)NCC(O)=O,Anemia in chronic kidney disease,C1561828,707323002.0,2021,EMA
+fingolimod,KKGQTZUTZRNORY-UHFFFAOYSA-N,CCCCCCCCC1=CC=C(CCC(N)(CO)CO)C=C1,Relapsing remitting multiple sclerosis,C0751967,426373005.0,2021,EMA
+roxadustat,YOZBGTLTNGAVFU-UHFFFAOYSA-N,CC1=C2C=C(OC3=CC=CC=C3)C=CC2=C(O)C(=N1)C(=O)NCC(O)=O,Refractory anemia (clinical),C2981142,109996008.0,2021,EMA
+bimekizumab,,,Erythrodermic psoriasis,C0748052,200977004.0,2021,EMA
+bimekizumab,,,Pustular psoriasis,C0152081,200973000.0,2021,EMA
+bimekizumab,,,Plaque psoriasis,C0406317,200965009.0,2021,EMA
+difelikefalin,FWMNVWWHGCHHJJ-SKKKGAJSSA-N,CC(C)C[C@H](C(=O)N[C@H](CCCCN)C(=O)N1CCC(CC1)(C(=O)O)N)NC(=O)[C@@H](CC2=CC=CC=C2)NC(=O)[C@@H](CC3=CC=CC=C3)N,Pruritus associated with chronic kidney disease (CKD-aP),C1262019,707151000.0,2021,FDA
+lonapegsomatropin,,,Growth failure due to inadequate secretion of endogenous growth hormone (GH),C0271561,397827003.0,2021,FDA
+tafasitamab,,,"Malignant lymphoma, large B-cell, diffuse",C0079744,46732000.0,2021,EMA
+vosoritide,IGYWDDBBJPSOTG-WBAGYEQSSA-N,CC[C@H](C)[C@H]1C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)NCC(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CCCNC(=N)N)CC(=O)O)CC(C)C)CCCCN)CC(C)C)CC2=CC=CC=C2)NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](C)NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC3=CC=C(C=C3)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](C)NC(=O)[C@H](CC(=O)N)NC(=O)[C@@H]4CCCN4C(=O)[C@H](CC5=CN=CN5)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)CNC(=O)[C@@H]6CCCN6)C(=O)O)CC(C)C)CO)CCSC)CO,Achondroplasia,C0001080,86268005.0,2021,EMA
+tafasitamab,,,Diffuse large B-cell lymphoma refractory,C0855112,,2021,EMA
+amivantamab,,,Advanced or metastatic non-small cell lung cancer with EGFR exon 20 insertion mutations,C3840002,703228009.0,2021,EMA
+mobocertinib,AZSRSNUQCUDCGG-UHFFFAOYSA-N,CC(C)OC(=O)C1=CN=C(N=C1C2=CN(C3=CC=CC=C32)C)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC,Advanced or metastatic non-small cell lung cancer with EGFR exon 20 insertion mutations,C3840002,703228009.0,2021,FDA
+tisotumab vedotin,,,Recurrent or metastatic cervical cancer,C0302592,285432005.0,2021,FDA
+atogepant,QIVUCLWGARAQIO-OLIXTKCUSA-N,C[C@@H]1[C@@H](C[C@@H](C(=O)N1CC(F)(F)F)NC(=O)C2=CC3=C(C[C@@]4(C3)C5=C(NC4=O)N=CC=C5)N=C2)C6=C(C=CC(=C6F)F)F,Preventive treatment of episodic migraine in adults,C1142085,408381007.0,2021,FDA
+maralixibat hydrochloride,STPKWKPURVSAJF-LJEWAXOPSA-N,CCCCC1(CS(=O)(=O)C2=C(C=C(C=C2)N(C)C)[C@H]([C@H]1O)C3=CC=C(C=C3)OCC4=CC=C(C=C4)C[N+]56CCN(CC5)CC6)CCCC,Cholestatic pruritus in patients with Alagille syndrome (ALGS),C0085280,31742004.0,2021,FDA
+avacopan,PUKBOVABABRILL-YZNIXAGQSA-N,CC1=C(C(=CC=C1)F)C(=O)N2CCC[C@@H]([C@@H]2C3=CC=C(C=C3)NC4CCCC4)C(=O)NC5=CC(=C(C=C5)C)C(F)(F)F,Granulomatosis with polyangiitis,C3495801,195353004.0,2021,FDA
+avacopan,PUKBOVABABRILL-YZNIXAGQSA-N,CC1=C(C(=CC=C1)F)C(=O)N2CCC[C@@H]([C@@H]2C3=CC=C(C=C3)NC4CCCC4)C(=O)NC5=CC(=C(C=C5)C)C(F)(F)F,Microscopic polyangiitis,C2347126,1144805008.0,2021,FDA
+avacopan,PUKBOVABABRILL-YZNIXAGQSA-N,CC1=C(C(=CC=C1)F)C(=O)N2CCC[C@@H]([C@@H]2C3=CC=C(C=C3)NC4CCCC4)C(=O)NC5=CC(=C(C=C5)C)C(F)(F)F,Anti-Neutrophil Cytoplasmic Autoantibody (ANCA)-associated vasculitis (granulomatosis with polyangiitis and microscopic polyangiitis),C4542821,722191003.0,2021,FDA
+asciminib,VOVZXURTCKPRDQ-CQSZACIVSA-N,O=C(Nc1ccc(OC(F)(F)Cl)cc1)c1cnc(N2CC[C@@H](O)C2)c(-c2cc[nH]n2)c1,Philadelphia chromosome-positive chronic myeloid leukemia (Ph+ CML),C0023473,92818009.0,2021,FDA
+regdanvimab,,,COVID-19,C5203670,840539006.0,2021,EMA
+imdevimab,,,COVID-19,C5203670,840539006.0,2021,EMA
+casirivimab,,,COVID-19,C5203670,840539006.0,2021,EMA
+ropeginterferon alfa-2b,,,Polycythemia vera,C0032463,109992005.0,2021,FDA
+diroximel fumarate,YIMYDTCOUQIDMT-SNAWJCMRSA-N,COC(=O)\C=C\C(=O)OCCN1C(=O)CCC1=O,Relapsing forms of multiple sclerosis,C0751967,426373005.0,2021,EMA
+pralsetinib,GBLBJPZSROAGMF-SIYOEGHHSA-N,CC1=CC(=NN1)NC2=NC(=NC(=C2)C)C3CCC(CC3)(C(=O)N[C@@H](C)C4=CN=C(C=C4)N5C=C(C=N5)F)OC,Metastatic non-small cell lung cancer,C0278987,,2021,EMA
+pralsetinib,GBLBJPZSROAGMF-SIYOEGHHSA-N,CC1=CC(=NN1)NC2=NC(=NC(=C2)C)C3CCC(CC3)(C(=O)N[C@@H](C)C4=CN=C(C=C4)N5C=C(C=N5)F)OC,Medullary thyroid carcinoma,C0238462,255032005.0,2021,EMA
+pralsetinib,GBLBJPZSROAGMF-SIYOEGHHSA-N,CC1=CC(=NN1)NC2=NC(=NC(=C2)C)C3CCC(CC3)(C(=O)N[C@@H](C)C4=CN=C(C=C4)N5C=C(C=N5)F)OC,Non-small cell lung cancer,C0007131,254637007.0,2021,EMA
+ripretinib,CEFJVGZHQAGLHS-UHFFFAOYSA-N,CCN1C2=CC(=NC=C2C=C(C1=O)C3=CC(=C(C=C3Br)F)NC(=O)NC4=CC=CC=C4)NC,Gastrointestinal stromal tumor,C0238198,420120006.0,2021,EMA
+vosoritide,IGYWDDBBJPSOTG-WBAGYEQSSA-N,CC[C@H](C)[C@H]1C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)NCC(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CCCNC(=N)N)CC(=O)O)CC(C)C)CCCCN)CC(C)C)CC2=CC=CC=C2)NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](C)NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC3=CC=C(C=C3)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](C)NC(=O)[C@H](CC(=O)N)NC(=O)[C@@H]4CCCN4C(=O)[C@H](CC5=CN=CN5)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)CNC(=O)[C@@H]6CCCN6)C(=O)O)CC(C)C)CO)CCSC)CO,Achondroplasia,C0001080,86268005.0,2021,FDA
+zanubrutinib,RNOAOAWBMHREKO-QFIPXVFZSA-N,NC(=O)C1=C2NCC[C@@H](C3CCN(CC3)C(=O)C=C)N2N=C1C1=CC=C(OC2=CC=CC=C2)C=C1,Marginal zone lymphoma,C1367654,447100004.0,2021,EMA
+zanubrutinib,RNOAOAWBMHREKO-QFIPXVFZSA-N,NC(=O)C1=C2NCC[C@@H](C3CCN(CC3)C(=O)C=C)N2N=C1C1=CC=C(OC2=CC=CC=C2)C=C1,Waldenström macroglobulinemia,C0024419,190818004.0,2021,EMA
+zanubrutinib,RNOAOAWBMHREKO-QFIPXVFZSA-N,NC(=O)C1=C2NCC[C@@H](C3CCN(CC3)C(=O)C=C)N2N=C1C1=CC=C(OC2=CC=CC=C2)C=C1,"Chronic lymphoid leukemia, disease",C0023434,92814006.0,2021,EMA
+artesunate,FIHJKUPKCHIPAT-AHIGJZGOSA-N,C[C@@H]1CC[C@H]2[C@@H](C)[C@H](OC(=O)CCC(O)=O)O[C@@H]3O[C@@]4(C)CC[C@@H]1[C@@]23OO4,Vivax malaria,C0024537,27052006.0,2021,EMA
+artesunate,FIHJKUPKCHIPAT-AHIGJZGOSA-N,C[C@@H]1CC[C@H]2[C@@H](C)[C@H](OC(=O)CCC(O)=O)O[C@@H]3O[C@@]4(C)CC[C@@H]1[C@@]23OO4,Falciparum malaria,C0024535,62676009.0,2021,EMA
+sacituzumab govitecan,,,Triple negative breast neoplasms,C3539878,706970001.0,2021,EMA
+zanubrutinib,RNOAOAWBMHREKO-QFIPXVFZSA-N,NC(=O)C1=C2NCC[C@@H](C3CCN(CC3)C(=O)C=C)N2N=C1C1=CC=C(OC2=CC=CC=C2)C=C1,Mantle cell lymphoma,C0334634,443487006.0,2021,EMA
+maribavir,KJFBVJALEQWJBS-XUXIUFHCSA-N,CC(C)NC1=NC2=CC(=C(C=C2N1[C@@H]3[C@H]([C@H]([C@@H](O3)CO)O)O)Cl)Cl,Post-transplant cytomegalovirus infection,C0010823,28944009.0,2021,FDA
+pafolacianine,PDXNSXLPXJFETD-DYVQZXGMSA-O,CC1(C)\C(=C/C=C2\CCCC(\C=C\C3=[N+](CCCCS(O)(=O)=O)C4=CC=C(C=C4C3(C)C)S(O)(=O)=O)=C2OC2=CC=C(C[C@H](NC(=O)C3=CC=C(NCC4=NC5=C(N=C4)N=C(N)NC5=O)C=C3)C(O)=O)C=C2)N(CCCCS(O)(=O)=O)C2=CC=C(C=C12)S(O)(=O)=O,Imaging ovarian cancer and malignant lesions,C4708071,767427005.0,2021,FDA
+abrocitinib,IUEWXNHSKRWHDY-PHIMTYICNA-N,CCCS(=O)(=O)N[C@H]1C[C@H](C1)N(C)C1=NC=NC2=C1C=CN2,Atopic dermatitis,C0011615,24079001.0,2021,EMA
+efgartigimod alfa,,,Myasthenia gravis,C0026896,91637004.0,2021,FDA
+efgartigimod alfa,,,Immune thrombocytopenia,C0272286,2897005.0,2021,FDA
+pegcetacoplan,,,Geographic atrophy secondary to age-related macular degeneration,C0271083,414875008.0,2021,EMA
+pegcetacoplan,,,Paroxysmal nocturnal hemoglobinuria,C0024790,1963002.0,2021,EMA
+sotrovimab,,,COVID-19,C5203670,840539006.0,2021,EMA
+tezepelumab,,,Severe asthma,C0581126,370221004.0,2021,FDA
+inclisiran,,,Familial hypercholesterolemia - heterozygous,C0342882,238079002.0,2021,FDA
+inclisiran,,,Atherosclerotic cardiovascular disease,C0003850,72092001.0,2021,FDA
+tralokinumab,,,Moderate to severe atopic dermatitis,C0011615,24079001.0,2021,FDA
+daridorexant,NBGABHGMJVIVBW-QHCPKHFHSA-N,CC1=C(C=CC2=C1N=C(N2)[C@@]3(CCCN3C(=O)C4=C(C=CC(=C4)OC)N5N=CC=N5)C)Cl,Insomnia,C0917801,193462001.0,2022,FDA
+tecovirimat,CSKDFZIMJXRJGH-VWLPUNTISA-N,FC(F)(F)C1=CC=C(C=C1)C(=O)NN1C(=O)[C@H]2[C@H]([C@H]3C=C[C@@H]2[C@@H]2C[C@H]32)C1=O,Monkeypox,C0276180,359814004.0,2022,EMA
+tecovirimat,CSKDFZIMJXRJGH-VWLPUNTISA-N,FC(F)(F)C1=CC=C(C=C1)C(=O)NN1C(=O)[C@H]2[C@H]([C@H]3C=C[C@@H]2[C@@H]2C[C@H]32)C1=O,Cowpox,C0010232,70090004.0,2022,EMA
+tecovirimat,CSKDFZIMJXRJGH-VWLPUNTISA-N,FC(F)(F)C1=CC=C(C=C1)C(=O)NN1C(=O)[C@H]2[C@H]([C@H]3C=C[C@@H]2[C@@H]2C[C@H]32)C1=O,Smallpox,C0037354,67924001.0,2022,EMA
+tecovirimat,CSKDFZIMJXRJGH-VWLPUNTISA-N,FC(F)(F)C1=CC=C(C=C1)C(=O)NN1C(=O)[C@H]2[C@H]([C@H]3C=C[C@@H]2[C@@H]2C[C@H]32)C1=O,Complications due to replication of vaccinia virus following vaccination against smallpox,,,2022,EMA
+sotorasib,NXQKSXLFSAEQCZ-UHFFFAOYSA-N,CC(C)C1=C(N2C(=O)N=C(N3CCN(CC3C)C(=O)C=C)C3=CC(F)=C(N=C23)C2=C(F)C=CC=C2O)C(C)=CC=N1,KRAS G12C-mutated locally advanced or metastatic non-small cell lung cancer,C0007131,254637007.0,2022,EMA
+avacopan,PUKBOVABABRILL-YZNIXAGQSA-N,CC1=C(C(=CC=C1)F)C(=O)N2CCC[C@@H]([C@@H]2C3=CC=C(C=C3)NC4CCCC4)C(=O)NC5=CC(=C(C=C5)C)C(F)(F)F,Anti-Neutrophil Cytoplasmic Autoantibody (ANCA)-associated vasculitis (granulomatosis with polyangiitis and microscopic polyangiitis),C4542821,722191003.0,2022,EMA
+lonapegsomatropin,,,Growth failure due to inadequate secretion of endogenous growth hormone (GH),C0271561,397827003.0,2022,EMA
+avacopan,PUKBOVABABRILL-YZNIXAGQSA-N,CC1=C(C(=CC=C1)F)C(=O)N2CCC[C@@H]([C@@H]2C3=CC=C(C=C3)NC4CCCC4)C(=O)NC5=CC(=C(C=C5)C)C(F)(F)F,Microscopic polyangiitis,C2347126,1144805008.0,2022,EMA
+avacopan,PUKBOVABABRILL-YZNIXAGQSA-N,CC1=C(C(=CC=C1)F)C(=O)N2CCC[C@@H]([C@@H]2C3=CC=C(C=C3)NC4CCCC4)C(=O)NC5=CC(=C(C=C5)C)C(F)(F)F,Granulomatosis with polyangiitis,C3495801,195353004.0,2022,EMA
+glucarpidase,,,Toxic plasma methotrexate concentration reduction,,,2022,EMA
+abrocitinib,IUEWXNHSKRWHDY-PHIMTYICNA-N,CCCS(=O)(=O)N[C@H]1C[C@H](C1)N(C)C1=NC=NC2=C1C=CN2,Atopic dermatitis,C0011615,24079001.0,2022,FDA
+eptinezumab,,,Prevention of migraine attacks,C1142085,408381007.0,2022,EMA
+eptinezumab,,,Migraine,C0149931,37796009.0,2022,EMA
+tebentafusp,,,Metastatic uveal melanoma,C4725091,,2022,FDA
+tebentafusp,,,Unresectable uveal melanoma,C5419539,,2022,FDA
+nirmatrelvir,LIENCHBZNNMNKG-OJFNHCPVSA-N,[H][C@]12CN([C@H](C(=O)N[C@@H](C[C@@H]3CCNC3=O)C#N)[C@@]1([H])C2(C)C)C(=O)[C@@H](NC(=O)C(F)(F)F)C(C)(C)C,COVID-19,C5203670,840539006.0,2022,EMA
+faricimab,,,Exudative age-related macular degeneration,C0271084,414173003.0,2022,FDA
+faricimab,,,Macular edema due to diabetes mellitus,C0730285,312912001.0,2022,FDA
+sutimlimab,,,Cold autoimmune hemolytic anemia,C0175816,398937006.0,2022,FDA
+risperidone,RAPZEAPATHNIPO-UHFFFAOYSA-N,CC1=C(CCN2CCC(CC2)C2=NOC3=C2C=CC(F)=C3)C(=O)N2CCCCC2=N1,Infantile autism,C0004352,408857007.0,2022,EMA
+risperidone,RAPZEAPATHNIPO-UHFFFAOYSA-N,CC1=C(CCN2CCC(CC2)C2=NOC3=C2C=CC(F)=C3)C(=O)N2CCCCC2=N1,"Bipolar affective disorder, current episode manic",C0338873,191618007.0,2022,EMA
+risperidone,RAPZEAPATHNIPO-UHFFFAOYSA-N,CC1=C(CCN2CCC(CC2)C2=NOC3=C2C=CC(F)=C3)C(=O)N2CCCCC2=N1,Schizophrenia,C0036341,58214004.0,2022,EMA
+anifrolumab,,,Moderate to severe systemic lupus erythematosus (SLE),C0024141,55464009.0,2022,EMA
+somatrogon,,,Growth hormone deficiency,C0271561,397827003.0,2022,EMA
+risperidone,RAPZEAPATHNIPO-UHFFFAOYSA-N,CC1=C(CCN2CCC(CC2)C2=NOC3=C2C=CC(F)=C3)C(=O)N2CCCCC2=N1,Bipolar disorder in remission,C0270425,85248005.0,2022,EMA
+voxelotor,FWCVZAQENIZVMY-UHFFFAOYSA-N,CC(C)N1N=CC=C1C1=C(COC2=C(C=O)C(O)=CC=C2)C=CC=N1,Sickle cell disease,C0002895,417357006.0,2022,EMA
+risperidone,RAPZEAPATHNIPO-UHFFFAOYSA-N,CC1=C(CCN2CCC(CC2)C2=NOC3=C2C=CC(F)=C3)C(=O)N2CCCCC2=N1,Mixed bipolar I disorder,C0236780,16506000.0,2022,EMA
+tepotinib,AHYMHWXQRWRBKT-UHFFFAOYSA-N,CN1CCC(CC1)COC2=CN=C(N=C2)C3=CC=CC(=C3)CN4C(=O)C=CC(=N4)C5=CC=CC(=C5)C#N,Metastatic non-small cell lung cancer,C0278987,,2022,EMA
+finerenone,BTBHLEZXCOBLCY-QGZVFWFLSA-N,CCOC1=NC=C(C2=C1[C@@H](C(=C(N2)C)C(=O)N)C3=C(C=C(C=C3)C#N)OC)C,Chronic kidney disease (CKD) associated with type 2 diabetes (T2D),C3662038,771000119108.0,2022,EMA
+tepotinib,AHYMHWXQRWRBKT-UHFFFAOYSA-N,CN1CCC(CC1)COC2=CN=C(N=C2)C3=CC=CC(=C3)CN4C(=O)C=CC(=N4)C5=CC=CC(=C5)C#N,Non-small cell lung cancer,C0007131,254637007.0,2022,EMA
+mitapivat,XAYGBKHKBBXDAK-UHFFFAOYSA-N,C1CC1CN2CCN(CC2)C(=O)C3=CC=C(C=C3)NS(=O)(=O)C4=CC=CC5=C4N=CC=C5,Pyruvate kinase (PK) deficiency,C0340968,124331002.0,2022,FDA
+pacritinib,HWXVIOGONBBTBY-ONEGZZNKSA-N,C(CN1CCCC1)OC1=CC=C2C=C1COC\C=C\COCC1=CC=CC(=C1)C1=CC=N\C(N1)=N\2,Myelofibrosis,C0026987,52967002.0,2022,FDA
+relatlimab,,,Advanced melanoma with tumour cell PD-L1 expression below 1%,C0860594,443493003.0,2022,FDA
+ganaxolone,PGTVWKLGGCQMBR-FLBATMFCSA-N,[H][C@@]1(CC[C@@]2([H])[C@]3([H])CC[C@@]4([H])C[C@](C)(O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)C(C)=O,Seizures associated with CDKL5 deficiency disorders,C4750718,773230003.0,2022,FDA
+relatlimab,,,Unresectable or metastatic melanoma,C0860594,443493003.0,2022,FDA
+lutetium (177Lu) vipivotide tetraxetan,RSTDSVVLNYFDHY-BGOLSCJMSA-K,[177Lu+3].OC(=O)CC[C@H](NC(=O)N[C@@H](CCCCNC(=O)[C@H](CC1=CC2=C(C=CC=C2)C=C1)NC(=O)[C@H]1CC[C@H](CNC(=O)CN2CCN(CC([O-])=O)CCN(CC([O-])=O)CCN(CC([O-])=O)CC2)CC1)C(O)=O)C(O)=O,PSMA-positive metastatic castration-resistant prostate cancer,C1328504,427492003.0,2022,FDA
+cilgavimab,,,COVID-19,C5203670,840539006.0,2022,EMA
+tixagevimab,,,COVID-19,C5203670,840539006.0,2022,EMA
+tebentafusp,,,Unresectable uveal melanoma,C5419539,,2022,EMA
+tebentafusp,,,Metastatic uveal melanoma,C4725091,,2022,EMA
+enfortumab vedotin,,,Metastatic urothelial carcinoma,C4288754,,2022,EMA
+difelikefalin,FWMNVWWHGCHHJJ-SKKKGAJSSA-N,CC(C)C[C@H](C(=O)N[C@H](CCCCN)C(=O)N1CCC(CC1)(C(=O)O)N)NC(=O)[C@@H](CC2=CC=CC=C2)NC(=O)[C@@H](CC3=CC=CC=C3)N,Pruritus associated with chronic kidney disease (CKD-aP),C1262019,707151000.0,2022,EMA
+inebilizumab,,,Neuromyelitis optica,C0027873,25044007.0,2022,EMA
+rimegepant,KRNAOFGYEFKHPB-ANJVHQHFSA-N,N[C@H]1[C@@H](CC[C@@H](OC(=O)N2CCC(CC2)N2C(=O)NC3=NC=CC=C23)C2=NC=CC=C12)C1=C(F)C(F)=CC=C1,Migraine,C0149931,37796009.0,2022,EMA
+rimegepant,KRNAOFGYEFKHPB-ANJVHQHFSA-N,N[C@H]1[C@@H](CC[C@@H](OC(=O)N2CCC(CC2)N2C(=O)NC3=NC=CC=C23)C2=NC=CC=C12)C1=C(F)C(F)=CC=C1,Prevention of migraine attacks,C1142085,408381007.0,2022,EMA
+oteseconazole,IDUYJRXRDSPPRC-NRFANRHFSA-N,O[C@@](CN1C=NN=N1)(C1=C(F)C=C(F)C=C1)C(F)(F)C1=CC=C(C=N1)C1=CC=C(OCC(F)(F)F)C=C1,Recurrent vulvovaginal candidiasis (RVVC),C3872606,708126004.0,2022,FDA
+mavacamten,RLCLASQCAPXVLM-NSHDSACASA-N,CC(C)N1C(=O)NC(N[C@@H](C)C2=CC=CC=C2)=CC1=O,Obstructive hypertrophic cardiomyopathy (HCM),C0007194,233873004.0,2022,FDA
+daridorexant,NBGABHGMJVIVBW-QHCPKHFHSA-N,CC1=C(C=CC2=C1N=C(N2)[C@@]3(CCCN3C(=O)C4=C(C=CC(=C4)OC)N5N=CC=N5)C)Cl,Insomnia,C0917801,193462001.0,2022,EMA
+tirzepatide,BTSOGEDATSQOAF-MCNPHUAVSA-N,[H]N[C@@H](CC1=CC=C(O)C=C1)C(=O)NC(C)(C)C(=O)N[C@@H](CCC(O)=O)C(=O)NCC(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](CC1=CC=C(O)C=C1)C(=O)N[C@@H](CO)C(=O)N[C@@H]([C@@H](C)CC)C(=O)NC(C)(C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CCCCNC(=O)COCCOCCNC(=O)COCCOCCNC(=O)CC[C@H](NC(=O)CCCCCCCCCCCCCCCCCCC(O)=O)C(O)=O)C(=O)N[C@@H](C)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC1=CNC2=C1C=CC=C2)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](C)C(=O)NCC(=O)NCC(=O)N1CCC[C@H]1C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N1CCC[C@H]1C(=O)N1CCC[C@H]1C(=O)N[C@@H](CO)C(N)=O,Diabetes mellitus type 2,C0011860,44054006.0,2022,FDA
+tapinarof,ZISJNXNHJRQYJO-CMDGGOBGSA-N,CC(C)C1=C(O)C=C(\C=C\C2=CC=CC=C2)C=C1O,Plaque psoriasis,C0406317,200965009.0,2022,FDA
+leuprorelin,GFIJNRVAKGFPGQ-LIJARHBVSA-N,CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CNC2=C1C=CC=C2)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@@H]1CCC(=O)N1,Advanced Prostatic Carcinoma,,,2022,EMA
+leuprorelin,GFIJNRVAKGFPGQ-LIJARHBVSA-N,CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CNC2=C1C=CC=C2)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@@H]1CCC(=O)N1,Anemia due to Bleeding Uterine Leiomyoma,,,2022,EMA
+leuprorelin,GFIJNRVAKGFPGQ-LIJARHBVSA-N,CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CNC2=C1C=CC=C2)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@@H]1CCC(=O)N1,Endometriosis,C0014175,129103003.0,2022,EMA
+leuprorelin,GFIJNRVAKGFPGQ-LIJARHBVSA-N,CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CNC2=C1C=CC=C2)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@@H]1CCC(=O)N1,Precocious puberty,C0034013,400179000.0,2022,EMA
+mosunetuzumab,,,Relapsed or refractory follicular lymphoma,C0024301,55150002.0,2022,EMA
+vutrisiran,,,Transthyretin familial amyloid polyneuropathy,C0206245,42295001.0,2022,FDA
+vutrisiran,,,Transthyretin familial amyloid polyneuropathy,C0206245,42295001.0,2022,EMA
+linzagolix,BMAAMIIYNNPHAB-UHFFFAOYSA-N,COC1=CC=C(F)C(F)=C1COC1=CC(N2C(=O)NC3=CSC(C(O)=O)=C3C2=O)=C(F)C=C1OC,Uterine fibroids,C0042133,95315005.0,2022,EMA
+capmatinib,LIOLIMKSCNQPLV-UHFFFAOYSA-N,CNC(=O)C1=C(C=C(C=C1)C2=NN3C(=CN=C3N=C2)CC4=CC5=C(C=C4)N=CC=C5)F,Metastatic non-small cell lung cancer,C0278987,,2022,EMA
+birch bark extract,,,Epidermolysis bullosa,C0014527,61003004.0,2022,EMA
+olipudase alfa,,,"Niemann-Pick disease, type A",C0268242,52165006.0,2022,EMA
+olipudase alfa,,,"Niemann-Pick disease, type B",C0268243,39390005.0,2022,EMA
+avalglucosidase alfa,,,Late-onset Pompe disease,C0342753,722343009.0,2022,EMA
+avalglucosidase alfa,,,Pompe disease,C0342751,274864009.0,2022,EMA
+indigo carmine,CFZXDJWFRVEWSR-BUHFOSPRSA-N,OS(=O)(=O)C1=CC2=C(N\C(C2=O)=C2\NC3=C(C=C(C=C3)S(O)(=O)=O)C2=O)C=C1,Visualization of the ureteral orifices,C2957169,236168003.0,2022,FDA
+lonafarnib,DHMTURDWPRKSOA-RUZDIDTESA-N,C1CN(CCC1CC(=O)N2CCC(CC2)[C@@H]3C4=C(CCC5=C3N=CC(=C5)Br)C=C(C=C4Br)Cl)C(=O)N,Processingdeficient progeroid laminopathies,,,2022,EMA
+lonafarnib,DHMTURDWPRKSOA-RUZDIDTESA-N,C1CN(CCC1CC(=O)N2CCC(CC2)[C@@H]3C4=C(CCC5=C3N=CC(=C5)Br)C=C(C=C4Br)Cl)C(=O)N,Hutchinson-Gilford syndrome,C0033300,238870004.0,2022,EMA
+piflufolastat F-18,OLWVRJUNLXQDSP-MVBOSPHXSA-N,OC(=O)CC[C@H](NC(=O)N[C@@H](CCCCNC(=O)C1=CC=C([18F])N=C1)C(O)=O)C(O)=O,Positron emission tomography,C0032743,82918005.0,2022,EMA
+lasmiditan,XEDHVZKDSYZQBF-UHFFFAOYSA-N,CN1CCC(CC1)C(=O)C1=NC(NC(=O)C2=C(F)C=C(F)C=C2F)=CC=C1,Migraine,C0149931,37796009.0,2022,EMA
+lenacapavir,BRYXUCLEHAUSDY-WEWMWRJBSA-N,[H][C@]12C[C@@]1([H])C(F)(F)C1=C2C(=NN1CC(=O)N[C@@H](CC1=CC(F)=CC(F)=C1)C1=C(C=CC(=N1)C#CC(C)(C)S(C)(=O)=O)C1=CC=C(Cl)C2=C1N(CC(F)(F)F)N=C2NS(C)(=O)=O)C(F)(F)F,Multidrug resistant HIV-1 infection,C0276500,40780007.0,2022,EMA
+melphalan flufenamide,YQZNKYXGZSVEHI-VXKWHMMOSA-N,CCOC(=O)[C@H](CC1=CC=C(C=C1)F)NC(=O)[C@H](CC2=CC=C(C=C2)N(CCCl)CCCl)N,Relapsed or refractory multiple myeloma,C0026764,109989006.0,2022,EMA
+eladocagene exuparvovec,,,Deficiency of aromatic-L-amino-acid decarboxylase,C1291564,124600004.0,2022,EMA
+teclistamab,,,Relapsed or refractory multiple myeloma,C0026764,109989006.0,2022,EMA
+valoctocogene roxaparvovec,,,Severe hereditary factor VIII deficiency disease,C0272322,16872008.0,2022,EMA
+olipudase alfa,,,"Niemann-Pick disease, type A",C0268242,52165006.0,2022,FDA
+olipudase alfa,,,"Niemann-Pick disease, type B",C0268243,39390005.0,2022,FDA
+spesolimab,,,Generalized pustular psoriasis,C0343055,238612002.0,2022,FDA
+spesolimab,,,Pustular psoriasis,C0152081,200973000.0,2022,FDA
+spesolimab,,,Erythrodermic psoriasis,C0748052,200977004.0,2022,FDA
+deucravacitinib,BZZKEPGENYLQSC-FIBGUPNXSA-N,[2H]C([2H])([2H])NC(=O)C1=C(NC2=C(OC)C(=CC=C2)C2=NN(C)C=N2)C=C(NC(=O)C2CC2)N=N1,Erythrodermic psoriasis,C0748052,200977004.0,2022,FDA
+deucravacitinib,BZZKEPGENYLQSC-FIBGUPNXSA-N,[2H]C([2H])([2H])NC(=O)C1=C(NC2=C(OC)C(=CC=C2)C2=NN(C)C=N2)C=C(NC(=O)C2CC2)N=N1,Pustular psoriasis,C0152081,200973000.0,2022,FDA
+eflapegrastim,,,Febrile neutropenia caused by myelosuppressive anti-cancer drugs,C0746883,409089005.0,2022,FDA
+deucravacitinib,BZZKEPGENYLQSC-FIBGUPNXSA-N,[2H]C([2H])([2H])NC(=O)C1=C(NC2=C(OC)C(=CC=C2)C2=NN(C)C=N2)C=C(NC(=O)C2CC2)N=N1,Plaque psoriasis,C0406317,200965009.0,2022,FDA
+terlipressin,BENFXAYNYRLAIU-QSVFAHTRSA-N,NCCCC[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@@H]1CSSC[C@H](NC(=O)CNC(=O)CNC(=O)CN)C(=O)N[C@@H](CC2=CC=C(O)C=C2)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC(N)=O)C(=O)N1)C(=O)NCC(N)=O,Hepatorenal syndrome,C0019212,51292008.0,2022,FDA
+fosdenopterin,CZAKJJUNKNPTTO-AJFJRRQVSA-N,C1[C@@H]2[C@@H](C([C@H]3[C@@H](O2)NC4=C(N3)C(=O)NC(=N4)N)(O)O)OP(=O)(O1)O,Molybdenum cofactor deficiency type A,C0268119,29692004.0,2022,EMA
+relatlimab,,,Advanced melanoma with tumour cell PD-L1 expression below 1%,C0860594,443493003.0,2022,EMA
+voclosporin,BICRTLVBTLFLRD-PTWUADNWSA-N,CC[C@@H]1NC(=O)[C@H]([C@H](O)[C@H](C)C\C=C\C=C)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H](CC(C)C)N(C)C(=O)CN(C)C1=O)C(C)C,Noninfectious Uveitis,,,2022,EMA
+faricimab,,,Exudative age-related macular degeneration,C0271084,414173003.0,2022,EMA
+faricimab,,,Macular edema due to diabetes mellitus,C0730285,312912001.0,2022,EMA
+relatlimab,,,Unresectable or metastatic melanoma,C0860594,443493003.0,2022,EMA
+tirzepatide,BTSOGEDATSQOAF-MCNPHUAVSA-N,[H]N[C@@H](CC1=CC=C(O)C=C1)C(=O)NC(C)(C)C(=O)N[C@@H](CCC(O)=O)C(=O)NCC(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](CC1=CC=C(O)C=C1)C(=O)N[C@@H](CO)C(=O)N[C@@H]([C@@H](C)CC)C(=O)NC(C)(C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CCCCNC(=O)COCCOCCNC(=O)COCCOCCNC(=O)CC[C@H](NC(=O)CCCCCCCCCCCCCCCCCCC(O)=O)C(O)=O)C(=O)N[C@@H](C)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC1=CNC2=C1C=CC=C2)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](C)C(=O)NCC(=O)NCC(=O)N1CCC[C@H]1C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](C)C(=O)N1CCC[C@H]1C(=O)N1CCC[C@H]1C(=O)N1CCC[C@H]1C(=O)N[C@@H](CO)C(N)=O,Diabetes mellitus type 2,C0011860,44054006.0,2022,EMA
+voclosporin,BICRTLVBTLFLRD-PTWUADNWSA-N,CC[C@@H]1NC(=O)[C@H]([C@H](O)[C@H](C)C\C=C\C=C)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H](CC(C)C)N(C)C(=O)CN(C)C1=O)C(C)C,Lupus nephritis,C0024143,68815009.0,2022,EMA
+tezepelumab,,,Severe asthma,C0581126,370221004.0,2022,EMA
+gadopiclenol,BVEYRIUDZCWBRJ-UHFFFAOYSA-L,[Gd+3].OCC(O)CNC(=O)CCC(N1CCN(CC2=CC=CC(CN(CC1)C(CCC(=O)NCC(O)CO)C([O-])=O)=N2)C(CCC(=O)NCC(O)C[O-])C(O)=O)C([O-])=O,Detect and visualize lesions with abnormal vascularity with MRI,C1512628,767426001.0,2022,FDA
+omidenepag isopropyl,VIQCWEGEHRBLAC-UHFFFAOYSA-N,CC(C)OC(=O)CNC1=CC=CC(CN(CC2=CC=C(C=C2)N2C=CC=N2)S(=O)(=O)C2=CC=CN=C2)=N1,Glaucoma,C0017601,23986001.0,2022,FDA
+omidenepag isopropyl,VIQCWEGEHRBLAC-UHFFFAOYSA-N,CC(C)OC(=O)CNC1=CC=CC(CN(CC2=CC=C(C=C2)N2C=CC=N2)S(=O)(=O)C2=CC=CN=C2)=N1,Ocular hypertension,C0028840,4210003.0,2022,FDA
+taurursodiol,BHTRKEVKTKCXOH-LBSADWJPSA-N,[H][C@@]1(CC[C@@]2([H])[C@]3([H])[C@@H](O)C[C@]4([H])C[C@H](O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)[C@H](C)CCC(=O)NCCS(O)(=O)=O,Amyotrophic lateral sclerosis,C0002736,86044005.0,2022,FDA
+futibatinib,KEIPNCCJPRMIAX-HNNXBMFYSA-N,COC1=CC(=CC(OC)=C1)C#CC1=NN([C@H]2CCN(C2)C(=O)C=C)C2=NC=NC(N)=C12,Intrahepatic cholangiocarcinoma,C0345905,109842005.0,2022,FDA
+tremelimumab,,,Liver cell carcinoma,C2239176,109841003.0,2022,FDA
+tremelimumab,,,Metastatic non-small cell lung cancer with no anaplastic lymphoma kinase genomic tumor aberrations,C5394854,830055006.0,2022,FDA
+tremelimumab,,,"Non-small cell lung cancer, negative for epidermal growth factor receptor expression",C1960396,427038005.0,2022,FDA
+teclistamab,,,Relapsed or refractory multiple myeloma,C0026764,109989006.0,2022,FDA
+nirsevimab,,,Prevention of respiratory Syncytial Virus (RSV) lower respiratory tract disease,C0035235,55735004.0,2022,EMA
+mitapivat,XAYGBKHKBBXDAK-UHFFFAOYSA-N,C1CC1CN2CCN(CC2)C(=O)C3=CC=C(C=C3)NS(=O)(=O)C4=CC=CC5=C4N=CC=C5,Pyruvate kinase (PK) deficiency,C0340968,124331002.0,2022,EMA
+mirvetuximab soravtansine,,,FRalpha positive platinum-resistant primary peritoneal cancer,C0153467,363492001.0,2022,FDA
+mirvetuximab soravtansine,,,FRalpha positive platinum-resistant epithelial ovarian cancer,C0346161,254849005.0,2022,FDA
+mirvetuximab soravtansine,,,FRalpha positive platinum-resistant fallopian tube cancer,C0153579,363444001.0,2022,FDA
+sutimlimab,,,Cold autoimmune hemolytic anemia,C0175816,398937006.0,2022,EMA
+teplizumab,,,Diabetes mellitus type 1,C0011854,46635009.0,2022,FDA
+olutasidenib,NEQYWYXGTJDAKR-JTQLQIEISA-N,C[C@H](NC1=CC=C(C#N)N(C)C1=O)C1=CC2=C(NC1=O)C=CC(Cl)=C2,"Acute myeloid leukemia, disease",C0023467,91861009.0,2022,FDA
+olutasidenib,NEQYWYXGTJDAKR-JTQLQIEISA-N,C[C@H](NC1=CC=C(C#N)N(C)C1=O)C1=CC2=C(NC1=O)C=CC(Cl)=C2,Refractory acute myeloid leukemia with a susceptible IDH1 mutation,C4528668,,2022,FDA
+olutasidenib,NEQYWYXGTJDAKR-JTQLQIEISA-N,C[C@H](NC1=CC=C(C#N)N(C)C1=O)C1=CC2=C(NC1=O)C=CC(Cl)=C2,Relapsing acute myeloid leukemia with a susceptible IDH1 mutation,C2349276,,2022,FDA
+octreotide,DEQANNDTNATYII-WKXAURAUSA-N,C[C@@H](O)[C@H](CO)NC(=O)[C@@H]1CSSC[C@H](NC(=O)[C@@H](N)CC2=CC=CC=C2)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N[C@@H](CC2=CNC3=C2C=CC=C3)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)O)C(=O)N1,Congenital hyperinsulinism,C3888018,360339005.0,2022,EMA
+octreotide,DEQANNDTNATYII-WKXAURAUSA-N,C[C@@H](O)[C@H](CO)NC(=O)[C@@H]1CSSC[C@H](NC(=O)[C@@H](N)CC2=CC=CC=C2)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N[C@@H](CC2=CNC3=C2C=CC=C3)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)O)C(=O)N1,Diarrhea from Pancreatic VIPoma,,,2022,EMA
+octreotide,DEQANNDTNATYII-WKXAURAUSA-N,C[C@@H](O)[C@H](CO)NC(=O)[C@@H]1CSSC[C@H](NC(=O)[C@@H](N)CC2=CC=CC=C2)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N[C@@H](CC2=CNC3=C2C=CC=C3)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)O)C(=O)N1,Carcinoid syndrome,C0024586,35868009.0,2022,EMA
+octreotide,DEQANNDTNATYII-WKXAURAUSA-N,C[C@@H](O)[C@H](CO)NC(=O)[C@@H]1CSSC[C@H](NC(=O)[C@@H](N)CC2=CC=CC=C2)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N[C@@H](CC2=CNC3=C2C=CC=C3)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)O)C(=O)N1,Acromegaly,C0001206,74107003.0,2022,EMA
+spesolimab,,,Erythrodermic psoriasis,C0748052,200977004.0,2022,EMA
+spesolimab,,,Generalized pustular psoriasis,C0343055,238612002.0,2022,EMA
+spesolimab,,,Pustular psoriasis,C0152081,200973000.0,2022,EMA
+lutetium (177Lu) vipivotide tetraxetan,RSTDSVVLNYFDHY-BGOLSCJMSA-K,[177Lu+3].OC(=O)CC[C@H](NC(=O)N[C@@H](CCCCNC(=O)[C@H](CC1=CC2=C(C=CC=C2)C=C1)NC(=O)[C@H]1CC[C@H](CNC(=O)CN2CCN(CC([O-])=O)CCN(CC([O-])=O)CCN(CC([O-])=O)CC2)CC1)C(O)=O)C(O)=O,PSMA-positive metastatic castration-resistant prostate cancer,C1328504,427492003.0,2022,EMA
+gallium (68Ga) gozetotide,AEBYHKKMCWUMKX-LNTZDJBBSA-K,[H+].C1=CC(=C(C=C1CCC(=O)NCCCCCC(=O)NCCCC[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O)CN(CCN(CC2=C(C=CC(=C2)CCC(=O)O)[O-])CC(=O)[O-])CC(=O)[O-])[O-].[68Ga+3],Positron emission tomography,C0032743,82918005.0,2022,EMA
+maralixibat hydrochloride,STPKWKPURVSAJF-LJEWAXOPSA-N,CCCCC1(CS(=O)(=O)C2=C(C=C(C=C2)N(C)C)[C@H]([C@H]1O)C3=CC=C(C=C3)OCC4=CC=C(C=C4)C[N+]56CCN(CC5)CC6)CCCC,Cholestatic pruritus in patients with Alagille syndrome (ALGS),C0085280,31742004.0,2022,EMA
+abaloparatide,BVISQZFBLRSESR-XSCWXTNMSA-N,CC[C@H](C)[C@H](NC(=O)[C@H](CO)NC(=O)[C@H](CCCCN)NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CO)NC(=O)[C@@H](NC(=O)[C@H](C)N)C(C)C)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NC(C)(C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC1=CNC=N1)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](C)C(N)=O,Osteoporosis,C0029456,64859006.0,2022,EMA
+adagrasib,PEMUGDMSUDYLHU-ZEQRLZLVSA-N,CN1CCC[C@H]1COC1=NC2=C(CCN(C2)C2=CC=CC3=CC=CC(Cl)=C23)C(=N1)N1CCN([C@@H](CC#N)C1)C(=O)C(F)=C,KRAS G12C-mutated locally advanced or metastatic non-small cell lung cancer,C0007131,254637007.0,2022,FDA
+abaloparatide,BVISQZFBLRSESR-XSCWXTNMSA-N,CC[C@H](C)[C@H](NC(=O)[C@H](CO)NC(=O)[C@H](CCCCN)NC(=O)CNC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CO)NC(=O)[C@@H](NC(=O)[C@H](C)N)C(C)C)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NC(C)(C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC1=CNC=N1)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](C)C(N)=O,At risk of osteoporotic fracture,C1272017,391040000.0,2022,EMA
+loncastuximab tesirine,,,Relapsed or refractory large B-cell lymphoma,C0079731,109979007.0,2022,EMA
+loncastuximab tesirine,,,Diffuse large B-cell lymphoma,C0079744,46732000.0,2022,EMA
+mosunetuzumab,,,Relapsed or refractory follicular lymphoma,C0024301,55150002.0,2022,FDA
+xenon (129Xe) hyperpolarized,,,Magnetic resonance imaging,C0024485,113091000.0,2022,FDA
+ublituximab,,,Relapsing forms of multiple sclerosis,C0751967,426373005.0,2022,FDA
+anacaulase,,,Removal of escars from deep thermal burn,C0423778,409590008.0,2022,FDA
+lecanemab,,,Alzheimer's disease,C0002395,26929004.0,2023,FDA
+bexagliflozin,BTCRKOKVYTVOLU-SJSRKZJXSA-N,C1CC1OCCOC2=CC=C(C=C2)CC3=C(C=CC(=C3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)Cl,Diabetes mellitus type 2,C0011860,44054006.0,2023,FDA
+pirtobrutinib,FWZAWAUZXYCBKZ-NSHDSACASA-N,C[C@@H](C(F)(F)F)N1C(=C(C(=N1)C2=CC=C(C=C2)CNC(=O)C3=C(C=CC(=C3)F)OC)C(=O)N)N,Relapsed or refractory mantle cell lymphoma (MCL),C4721414,443487006.0,2023,FDA
+elacestrant,SIFNOOUKXBRGGB-AREMUKBSSA-N,CCNCCC1=CC=C(C=C1)CN(CC)C2=C(C=CC(=C2)OC)[C@@H]3CCC4=C(C3)C=CC(=C4)O,Estrogen receptor positive advanced or metastatic breast cancer,C0006142,254837009.0,2023,FDA
+elacestrant,SIFNOOUKXBRGGB-AREMUKBSSA-N,CCNCCC1=CC=C(C=C1)CN(CC)C2=C(C=CC(=C2)OC)[C@@H]3CCC4=C(C3)C=CC(=C4)O,HER2-negative advanced or metastatic breast cancer,C0006142,254837009.0,2023,FDA
+elacestrant,SIFNOOUKXBRGGB-AREMUKBSSA-N,CCNCCC1=CC=C(C=C1)CN(CC)C2=C(C=CC(=C2)OC)[C@@H]3CCC4=C(C3)C=CC(=C4)O,ESR1-mutated advanced or metastatic breast cancer,C0006142,254837009.0,2023,FDA
+daprodustat,RUEYEZADQJCKGV-UHFFFAOYSA-N,C1CCC(CC1)N2C(=O)C(C(=O)N(C2=O)C3CCCCC3)C(=O)NCC(=O)O,Anemia of renal disease,C0472713,234348004.0,2023,FDA
+daprodustat,RUEYEZADQJCKGV-UHFFFAOYSA-N,C1CCC(CC1)N2C(=O)C(C(=O)N(C2=O)C3CCCCC3)C(=O)NCC(=O)O,Anemia in chronic kidney disease,C1561828,707323002.0,2023,FDA
+velmanase,,,Alpha-mannosidosis,C0024748,65524005.0,2023,FDA
+sparsentan,WRFHGDPIDHPWIQ-UHFFFAOYSA-N,CCCCC1=NC2(CCCC2)C(=O)N1CC3=CC(=C(C=C3)C4=CC=CC=C4S(=O)(=O)NC5=NOC(=C5C)C)COCC,Primary immunoglobulin A nephropathy,C3161650,68779003.0,2023,FDA
+tremelimumab,,,"Non-small cell lung cancer, negative for epidermal growth factor receptor expression",C1960396,427038005.0,2023,EMA
+tremelimumab,,,Metastatic non-small cell lung cancer with no anaplastic lymphoma kinase genomic tumor aberrations,C5394854,830055006.0,2023,EMA
+tremelimumab,,,Liver cell carcinoma,C2239176,109841003.0,2023,EMA
+omaveloxolone,RJCWBNBKOKFWNY-IDPLTSGASA-N,C[C@@]12CC[C@]3(CCC(C[C@H]3[C@H]1C(=O)C=C4[C@]2(CC[C@@H]5[C@@]4(C=C(C(=O)C5(C)C)C#N)C)C)(C)C)NC(=O)C(C)(F)F,Friedreich’s ataxia,C0016719,10394003.0,2023,FDA
+zavegepant,JJVAPHYEOZSKJZ-JGCGQSQUSA-N,CC1=CC(=CC2=C1NN=C2)C[C@H](C(=O)N3CCN(CC3)C4CCN(CC4)C)NC(=O)N5CCC(CC5)C6=CC7=CC=CC=C7NC6=O,Migraine without aura,C0338480,56097005.0,2023,FDA
+zavegepant,JJVAPHYEOZSKJZ-JGCGQSQUSA-N,CC1=CC(=CC2=C1NN=C2)C[C@H](C(=O)N3CCN(CC3)C4CCN(CC4)C)NC(=O)N5CCC(CC5)C6=CC7=CC=CC=C7NC6=O,Migraine with aura,C0154723,4473006.0,2023,FDA
+trofinetide,BUSXWGRAOZQTEY-SDBXPKJASA-N,C[C@]1(CCCN1C(=O)CN)C(=O)N[C@@H](CCC(=O)O)C(=O)O,Rett syndrome,C0035372,68618008.0,2023,FDA
+cipaglucosidase alfa,,,Late-onset Pompe disease,C0342753,722343009.0,2023,EMA
+retifanlimab,,,Merkel cell carcinoma,C0007129,253001006.0,2023,FDA
+rezafungin,LNFCWEXGZIEGJW-TXSVMFMRSA-O,CCCCCOC1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)C(=O)N[C@H]4C[C@H]([C@H](NC(=O)[C@@H]5[C@H]([C@H](CN5C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H]6C[C@H](CN6C(=O)[C@@H](NC4=O)[C@@H](C)O)O)[C@@H]([C@H](C7=CC=C(C=C7)O)O)O)[C@@H](C)O)C)O)OCC[N+](C)(C)C)O,Disseminated candidiasis,C0153252,70572005.0,2023,FDA
+rezafungin,LNFCWEXGZIEGJW-TXSVMFMRSA-O,CCCCCOC1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=C(C=C3)C(=O)N[C@H]4C[C@H]([C@H](NC(=O)[C@@H]5[C@H]([C@H](CN5C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H]6C[C@H](CN6C(=O)[C@@H](NC4=O)[C@@H](C)O)O)[C@@H]([C@H](C7=CC=C(C=C7)O)O)O)[C@@H](C)O)C)O)OCC[N+](C)(C)C)O,Candidemia,C0877445,432261003.0,2023,FDA
+deucravacitinib,BZZKEPGENYLQSC-FIBGUPNXSA-N,[2H]C([2H])([2H])NC(=O)C1=C(NC2=C(OC)C(=CC=C2)C2=NN(C)C=N2)C=C(NC(=O)C2CC2)N=N1,Plaque psoriasis,C0406317,200965009.0,2023,EMA
+deucravacitinib,BZZKEPGENYLQSC-FIBGUPNXSA-N,[2H]C([2H])([2H])NC(=O)C1=C(NC2=C(OC)C(=CC=C2)C2=NN(C)C=N2)C=C(NC(=O)C2CC2)N=N1,Erythrodermic psoriasis,C0748052,200977004.0,2023,EMA
+leniolisib,MWKYMZXCGYXLPL-ZDUSSCGKSA-N,CCC(=O)N1CC[C@@H](C1)NC2=NC=NC3=C2CN(CC3)C4=CC(=C(N=C4)OC)C(F)(F)F,Activated PI3K delta syndrome (APDS),C3714976,711480000.0,2023,FDA
+deucravacitinib,BZZKEPGENYLQSC-FIBGUPNXSA-N,[2H]C([2H])([2H])NC(=O)C1=C(NC2=C(OC)C(=CC=C2)C2=NN(C)C=N2)C=C(NC(=O)C2CC2)N=N1,Pustular psoriasis,C0152081,200973000.0,2023,EMA
+vadadustat,JGRXMPYUTJLTKT-UHFFFAOYSA-N,C1=CC(=CC(=C1)Cl)C2=CC(=C(N=C2)C(=O)NCC(=O)O)O,Anemia of renal disease,C0472713,234348004.0,2023,EMA
+vadadustat,JGRXMPYUTJLTKT-UHFFFAOYSA-N,C1=CC(=CC(=C1)Cl)C2=CC(=C(N=C2)C(=O)NCC(=O)O)O,Anemia in chronic kidney disease,C1561828,707323002.0,2023,EMA
+tofersen,AZBXTZOFHIRMCD-UHFFFAOYSA-N,COCCO[C@@H]1[C@H](O)[C@@H](COP(S)(=O)O[C@@H]2[C@@H](COP(O)(=O)O[C@@H]3[C@@H](COP(S)(=O)O[C@@H]4[C@@H](COP(O)(=O)O[C@@H]5[C@@H](COP(S)(=O)O[C@H]6C[C@@H](O[C@@H]6COP(S)(=O)O[C@H]6C[C@@H](O[C@@H]6COP(S)(=O)O[C@H]6C[C@@H](O[C@@H]6COP(S)(=O)O[C@H]6C[C@@H](O[C@@H]6COP(S)(=O)O[C@H]6C[C@@H](O[C@@H]6COP(S)(=O)O[C@H]6C[C@@H](O[C@@H]6COP(S)(=O)O[C@H]6C[C@@H](O[C@@H]6COP(S)(=O)O[C@H]6C[C@@H](O[C@@H]6COP(S)(=O)O[C@H]6C[C@@H](O[C@@H]6COP(S)(=O)O[C@H]6C[C@@H](O[C@@H]6COP(S)(=O)O[C@@H]6[C@@H](COP(O)(=O)O[C@@H]7[C@@H](COP(S)(=O)O[C@@H]8[C@@H](COP(O)(=O)O[C@@H]9[C@@H](COP(S)(=O)O[C@@H]%10[C@@H](CO)O[C@H]([C@@H]%10OCCOC)N%10C=C(C)C(N)=NC%10=O)O[C@H]([C@@H]9OCCOC)N9C=NC%10=C9N=CN=C%10N)O[C@H]([C@@H]8OCCOC)N8C=NC9=C8N=C(N)NC9=O)O[C@H]([C@@H]7OCCOC)N7C=NC8=C7N=C(N)NC8=O)O[C@H]([C@@H]6OCCOC)N6C=NC7=C6N=CN=C7N)N6C=C(C)C(=O)NC6=O)N6C=NC7=C6N=CN=C7N)N6C=C(C)C(N)=NC6=O)N6C=NC7=C6N=CN=C7N)N6C=C(C)C(=O)NC6=O)N6C=C(C)C(=O)NC6=O)N6C=C(C)C(=O)NC6=O)N6C=C(C)C(N)=NC6=O)N6C=C(C)C(=O)NC6=O)N6C=NC7=C6N=CN=C7N)O[C@H]([C@@H]5OCCOC)N5C=C(C)C(N)=NC5=O)O[C@H]([C@@H]4OCCOC)N4C=NC5=C4N=CN=C5N)O[C@H]([C@@H]3OCCOC)N3C=NC4=C3N=C(N)NC4=O)O[C@H]([C@@H]2OCCOC)N2C=C(C)C(N)=NC2=O)O[C@H]1N1C=C(C)C(=O)NC1=O,Amyotrophic lateral sclerosis,C0002736,86044005.0,2023,FDA
+ivosidenib,WIJZXSAJMHAVGX-DHLKQENFSA-N,FC1=CN=CC(=C1)N([C@H](C(=O)NC1CC(F)(F)C1)C1=CC=CC=C1Cl)C(=O)[C@@H]1CCC(=O)N1C1=NC=CC(=C1)C#N,Biliary tract cancer,C0206698,312104005.0,2023,EMA
+pegunigalsidase alfa,,,Fabry's disease,C0002986,16652001.0,2023,EMA
+ivosidenib,WIJZXSAJMHAVGX-DHLKQENFSA-N,FC1=CN=CC(=C1)N([C@H](C(=O)NC1CC(F)(F)C1)C1=CC=CC=C1Cl)C(=O)[C@@H]1CCC(=O)N1C1=NC=CC(=C1)C#N,"Acute myeloid leukemia, disease",C0023467,91861009.0,2023,EMA
+pegunigalsidase alfa,,,Fabry's disease,C0002986,16652001.0,2023,FDA
+fezolinetant,PPSNFPASKFYPMN-SECBINFHSA-N,C[C@@H]1C2=NN=C(N2CCN1C(=O)C3=CC=C(C=C3)F)C4=NC(=NS4)C,Vasomotor symptoms due to menopause,C0025319,123756000.0,2023,FDA
+perfluorohexyloctane,WRYIIOKOQSICTB-UHFFFAOYSA-N,CCCCCCCCC(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,Dry eye disease,C0013238,46152009.0,2023,FDA
+epcoritamab,,,Relapsed or refractory diffuse large B-cell lymphoma,C0079744,1172695008.0,2023,FDA
+durlobactam,BISPBXFUKNXOQY-RITPCOANSA-N,CC1=C[C@@H]2C[N@]([C@@H]1C(N)=O)C(=O)N2OS(O)(=O)=O,Ventilator-associated bacterial pneumonia caused by acinetobacter baumannii-calcoaceticus complex,C1701940,429271009.0,2023,FDA
+durlobactam,BISPBXFUKNXOQY-RITPCOANSA-N,CC1=C[C@@H]2C[N@]([C@@H]1C(N)=O)C(=O)N2OS(O)(=O)=O,Hospital-acquired bacterial pneumonia caused by acinetobacter baumannii-calcoaceticus complex,C2063075,1010634002.0,2023,FDA
+durlobactam,BISPBXFUKNXOQY-RITPCOANSA-N,CC1=C[C@@H]2C[N@]([C@@H]1C(N)=O)C(=O)N2OS(O)(=O)=O,Infection caused by carbapenem-resistant acinetobacter baumannii-calcoaceticus complex,C2959527,445780006.0,2023,FDA
+flotufolastat f-18 gallium,OJPQWJNFDOFXTN-WRFPGERRSA-K,CC(C)(C)[Si](C1=CC=C(C=C1)C(=O)NC[C@H](C(=O)N[C@H](CCCCNC(=O)CCC(=O)NCCC[C@H](C(=O)O)NC(=O)CC[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O)C(=O)O)NC(=O)CC[C@@H](C(=O)O)N2CCN(CCN(CCN(CC2)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])(C(C)(C)C)[18F].[Ga+3],Positron emission tomography,C0032743,82918005.0,2023,FDA
+nirmatrelvir,LIENCHBZNNMNKG-OJFNHCPVSA-N,[H][C@]12CN([C@H](C(=O)N[C@@H](C[C@@H]3CCNC3=O)C#N)[C@@]1([H])C2(C)C)C(=O)[C@@H](NC(=O)C(F)(F)F)C(C)(C)C,COVID-19,C5203670,840539006.0,2023,FDA
+sotagliflozin,QKDRXGFQVGOQKS-CRSSMBPESA-N,CCOC1=CC=C(CC2=C(Cl)C=CC(=C2)[C@@H]2O[C@H](SC)[C@@H](O)[C@H](O)[C@H]2O)C=C1,Chronic kidney disease at increased risk of cardiovascular disease,C1561643,709044004.0,2023,FDA
+sotagliflozin,QKDRXGFQVGOQKS-CRSSMBPESA-N,CCOC1=CC=C(CC2=C(Cl)C=CC(=C2)[C@@H]2O[C@H](SC)[C@@H](O)[C@H](O)[C@H]2O)C=C1,Heart failure,C0018801,84114007.0,2023,FDA
+spironolactone,LXMSZDCAJNLERA-ZHYRCANASA-N,CC(=O)S[C@@H]1CC2=CC(=O)CC[C@]2(C)[C@H]2CC[C@@]3(C)[C@@H](CC[C@@]33CCC(=O)O3)[C@H]12,Ascites,C0003962,389026000.0,2023,EMA
+sodium thiosulfate,,,Toxic effect of cyanide,C0238080,66207005.0,2023,EMA
+sotagliflozin,QKDRXGFQVGOQKS-CRSSMBPESA-N,CCOC1=CC=C(CC2=C(Cl)C=CC(=C2)[C@@H]2O[C@H](SC)[C@@H](O)[C@H](O)[C@H]2O)C=C1,Diabetes mellitus type 1,C0011854,46635009.0,2023,FDA
+sodium thiosulfate,,,Reduce the risk of ototoxicity associated with cisplatin,C0413645,292238004.0,2023,EMA
+spironolactone,LXMSZDCAJNLERA-ZHYRCANASA-N,CC(=O)S[C@@H]1CC2=CC(=O)CC[C@]2(C)[C@H]2CC[C@@]3(C)[C@@H](CC[C@@]33CCC(=O)O3)[C@H]12,Pulmonary Edema due to Chronic Heart Failure,,,2023,EMA
+spironolactone,LXMSZDCAJNLERA-ZHYRCANASA-N,CC(=O)S[C@@H]1CC2=CC(=O)CC[C@]2(C)[C@H]2CC[C@@]3(C)[C@@H](CC[C@@]33CCC(=O)O3)[C@H]12,Hypokalemia Prevention,,,2023,EMA
+spironolactone,LXMSZDCAJNLERA-ZHYRCANASA-N,CC(=O)S[C@@H]1CC2=CC(=O)CC[C@]2(C)[C@H]2CC[C@@]3(C)[C@@H](CC[C@@]33CCC(=O)O3)[C@H]12,Hypertensive disorder,C0020538,38341003.0,2023,EMA
+spironolactone,LXMSZDCAJNLERA-ZHYRCANASA-N,CC(=O)S[C@@H]1CC2=CC(=O)CC[C@]2(C)[C@H]2CC[C@@]3(C)[C@@H](CC[C@@]33CCC(=O)O3)[C@H]12,Diagnostic Test for Primary Aldosteronism,,,2023,EMA
+spironolactone,LXMSZDCAJNLERA-ZHYRCANASA-N,CC(=O)S[C@@H]1CC2=CC(=O)CC[C@]2(C)[C@H]2CC[C@@]3(C)[C@@H](CC[C@@]33CCC(=O)O3)[C@H]12,Edema,C0013604,267038008.0,2023,EMA
+spironolactone,LXMSZDCAJNLERA-ZHYRCANASA-N,CC(=O)S[C@@H]1CC2=CC(=O)CC[C@]2(C)[C@H]2CC[C@@]3(C)[C@@H](CC[C@@]33CCC(=O)O3)[C@H]12,Peripheral Edema due to Chronic Heart Failure,,,2023,EMA
+spironolactone,LXMSZDCAJNLERA-ZHYRCANASA-N,CC(=O)S[C@@H]1CC2=CC(=O)CC[C@]2(C)[C@H]2CC[C@@]3(C)[C@@H](CC[C@@]33CCC(=O)O3)[C@H]12,Edema due to Hepatic Cirrhosis,,,2023,EMA
+mirikizumab,,,Moderately to severely active ulcerative colitis,C0009324,64766004.0,2023,EMA
+spironolactone,LXMSZDCAJNLERA-ZHYRCANASA-N,CC(=O)S[C@@H]1CC2=CC(=O)CC[C@]2(C)[C@H]2CC[C@@]3(C)[C@@H](CC[C@@]33CCC(=O)O3)[C@H]12,Edema due to Nephrotic Syndrome,,,2023,EMA
+sotagliflozin,QKDRXGFQVGOQKS-CRSSMBPESA-N,CCOC1=CC=C(CC2=C(Cl)C=CC(=C2)[C@@H]2O[C@H](SC)[C@@H](O)[C@H](O)[C@H]2O)C=C1,Diabetes mellitus type 2 at increased risk of cardiovascular disease,C0011860,44054006.0,2023,FDA
+spironolactone,LXMSZDCAJNLERA-ZHYRCANASA-N,CC(=O)S[C@@H]1CC2=CC(=O)CC[C@]2(C)[C@H]2CC[C@@]3(C)[C@@H](CC[C@@]33CCC(=O)O3)[C@H]12,Chronic heart failure,C0264716,48447003.0,2023,EMA
+spironolactone,LXMSZDCAJNLERA-ZHYRCANASA-N,CC(=O)S[C@@H]1CC2=CC(=O)CC[C@]2(C)[C@H]2CC[C@@]3(C)[C@@H](CC[C@@]33CCC(=O)O3)[C@H]12,Aldosteronism,C0020428,88213004.0,2023,EMA
+enfuvirtide,PEASPLKKXBYDKL-FXEVSJAOSA-N,CC[C@H](C)[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC(=O)[C@H](CC1=CNC=N1)NC(=O)[C@@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC(=O)[C@@H](NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(C)=O)[C@@H](C)O)[C@@H](C)CC)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(O)=O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(O)=O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC1=CNC2=C1C=CC=C2)C(=O)N[C@@H](C)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC1=CNC2=C1C=CC=C2)C(=O)N[C@@H](CC(N)=O)C(=O)N[C@@H](CC1=CNC2=C1C=CC=C2)C(=O)N[C@@H](CC1=CC=CC=C1)C(N)=O,Human immunodeficiency virus infection,C0019693,86406008.0,2023,EMA
+ublituximab,,,Relapsing forms of multiple sclerosis,C0751967,426373005.0,2023,EMA
+glofitamab,,,Relapsed or refractory diffuse large B-cell lymphoma,C0079744,1172695008.0,2023,FDA
+ritlecitinib,CBRJPFGIXUFMTM-WDEREUQCSA-N,C[C@H]1CC[C@H](CN1C(=O)C=C)NC2=NC=NC3=C2C=CN3,Alopecia areata,C0002171,68225006.0,2023,FDA
+mavacamten,RLCLASQCAPXVLM-NSHDSACASA-N,CC(C)N1C(=O)NC(N[C@@H](C)C2=CC=CC=C2)=CC1=O,Obstructive hypertrophic cardiomyopathy (HCM),C0007194,233873004.0,2023,EMA
+rozanolixizumab,,,Generalized myasthenia gravis,C0026896,91637004.0,2023,FDA
+somatrogon,,,Growth hormone deficiency,C0271561,397827003.0,2023,FDA
+futibatinib,KEIPNCCJPRMIAX-HNNXBMFYSA-N,COC1=CC(=CC(OC)=C1)C#CC1=NN([C@H]2CCN(C2)C(=O)C=C)C2=NC=NC(N)=C12,Intrahepatic cholangiocarcinoma,C0345905,109842005.0,2023,EMA
+glofitamab,,,Relapsed or refractory diffuse large B-cell lymphoma,C0079744,1172695008.0,2023,EMA
+nirsevimab,,,Prevention of respiratory Syncytial Virus (RSV) lower respiratory tract disease,C0035235,55735004.0,2023,FDA
+quizartinib,CVWXJKQAOSCOAB-UHFFFAOYSA-N,CC(C)(C)C1=CC(NC(=O)NC2=CC=C(C=C2)C2=CN3C(SC4=C3C=CC(OCCN3CCOCC3)=C4)=N2)=NO1,"Acute myeloid leukemia, disease",C0023467,91861009.0,2023,FDA
+quizartinib,CVWXJKQAOSCOAB-UHFFFAOYSA-N,CC(C)(C)C1=CC(NC(=O)NC2=CC=C(C=C2)C2=CN3C(SC4=C3C=CC(OCCN3CCOCC3)=C4)=N2)=NO1,Acute myeloid leukemia with FMS-like tyrosine kinase-3 mutation,C4543165,734522002.0,2023,FDA
+cantharidin,DHZBEENLJMYSHQ-XCVPVQRUSA-N,C[C@]12[C@@H]3CC[C@@H](O3)[C@@]1(C)C(=O)OC2=O,Infection caused by Molluscum contagiosum,C0026393,40070004.0,2023,FDA
+lotilaner,HDKWFBCPLKNOCK-SFHVURJKSA-N,CC1=C(SC(=C1)C2=NO[C@@](C2)(C3=CC(Cl)=C(Cl)C(Cl)=C3)C(F)(F)F)C(=O)NCC(=O)NCC(F)(F)F,Demodex blepharitis,C1274557,403152000.0,2023,FDA
+ganaxolone,PGTVWKLGGCQMBR-FLBATMFCSA-N,[H][C@@]1(CC[C@@]2([H])[C@]3([H])CC[C@@]4([H])C[C@](C)(O)CC[C@]4(C)[C@@]3([H])CC[C@]12C)C(C)=O,Seizures associated with CDKL5 deficiency disorders,C4750718,773230003.0,2023,EMA
+zuranolone,HARRKNSQXBRBGZ-GVKWWOCJSA-N,C[C@]1(CC[C@H]2[C@@H](C1)CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4C(=O)CN5C=C(C=N5)C#N)C)O,Postpartum depression,C0221074,58703003.0,2023,FDA
+avacincaptad pegol,,,Geographic atrophy secondary to age-related macular degeneration,C0271083,414875008.0,2023,FDA
+talquetamab,,,Relapsed or refractory multiple myeloma,C0026764,109989006.0,2023,FDA
+elranatamab,,,Relapsed or refractory multiple myeloma,C0026764,109989006.0,2023,FDA
+palovarotene,YTFHCXIPDIHOIA-DHZHZOJOSA-N,CC1(CCC(C2=C1C=C(C(=C2)/C=C/C3=CC=C(C=C3)C(=O)O)CN4C=CC=N4)(C)C)C,Progressive myositis ossificans,C0016037,82725007.0,2023,FDA
+pozelimab,,,CHAPLE disease,C4538570,1279887007.0,2023,FDA
