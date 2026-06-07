@@ -1,0 +1,169 @@
+dc_disease_name,onto_name,onto_id,similarity,match_type
+Deep venous thrombosis,Venous thrombosis,HP_0004936,87.17948717948718,fuzzy
+Pulmonary thromboembolism,Thromboembolism,HP_0001907,75.0,fuzzy
+"Acute myeloid leukemia, disease",acute myeloid leukemia,EFO_0000222,83.01886792452831,fuzzy
+Osteoarthritis,osteoarthritis,MONDO_0005178,100.0,exact
+Asthma,asthma,MONDO_0004979,100.0,exact
+Ulcerative colitis,ulcerative colitis,EFO_0000729,100.0,exact
+Pain,Pain,HP_0012531,100.0,exact
+Cough,Cough,HP_0012735,100.0,exact
+Iridocyclitis,iridocyclitis,MONDO_0004773,100.0,exact
+Epilepsy,epilepsy,EFO_0000474,100.0,exact
+Pharyngitis,pharyngitis,MONDO_0002258,100.0,exact
+Gastrointestinal anthrax,gastrointestinal disease,EFO_0010282,75.0,fuzzy
+Cerebrovascular disease,cardiovascular disease,EFO_0000319,84.44444444444444,fuzzy
+Postherpetic neuralgia,postherpetic neuralgia,MONDO_0041052,100.0,exact
+Chronic myeloid leukemia,chronic myelogenous leukemia,EFO_0000339,84.61538461538461,fuzzy
+Parkinson's disease,Parkinson disease,MONDO_0005180,94.44444444444444,fuzzy
+Multiple myeloma,multiple myeloma,EFO_0001378,100.0,exact
+Epicondylitis,spondylitis,MONDO_0003937,83.33333333333334,fuzzy
+Corneal ulcer,Oral ulcer,HP_0000155,86.95652173913044,fuzzy
+Congenital adrenal hyperplasia,congenital adrenal hyperplasia,MONDO_0018479,100.0,exact
+Congenital hypoplastic anemia,Congenital hemolytic anemia,HP_0004804,85.71428571428572,fuzzy
+Acute lymphoid leukemia,acute lymphoblastic leukemia,EFO_0000220,86.27450980392157,fuzzy
+Acquired thrombocytopenia,thrombocytopenia 9,MONDO_0957572,79.06976744186046,fuzzy
+Nephrotic syndrome,nephrotic syndrome,EFO_0004255,100.0,exact
+Multiple sclerosis,multiple sclerosis,MONDO_0005301,100.0,exact
+West syndrome,West syndrome,MONDO_0018097,100.0,exact
+Status epilepticus,status epilepticus,EFO_0008526,100.0,exact
+Nausea and vomiting,Nausea and vomiting,HP_0002017,100.0,exact
+Fever,Fever,HP_0001945,100.0,exact
+Paroxysmal hypertension,pulmonary hypertension,MONDO_0005149,75.55555555555556,fuzzy
+Lennox-Gastaut syndrome,Lennox-Gastaut syndrome,MONDO_0016532,100.0,exact
+Bipolar disorder in remission,bipolar I disorder,EFO_0009963,76.59574468085107,fuzzy
+Chronic heart failure,heart failure,EFO_0003144,76.47058823529412,fuzzy
+Edema,edema,EFO_0009373,100.0,exact
+Q fever,Fever,HP_0001945,83.33333333333334,fuzzy
+Carcinoma of female breast,breast carcinoma,EFO_0000305,76.19047619047619,fuzzy
+Osteosarcoma of bone,bone osteosarcoma,MONDO_0002629,91.89189189189189,fuzzy
+Pustular psoriasis,"psoriasis 14, pustular",MONDO_0013626,90.0,fuzzy
+Burkitt's lymphoma,Burkitts lymphoma,EFO_0000309,97.14285714285714,fuzzy
+Primary ovarian failure,premature ovarian failure 19,MONDO_0030985,82.35294117647058,fuzzy
+Anxiety,Anxiety,HP_0000739,100.0,exact
+Vomiting,Vomiting,HP_0002013,100.0,exact
+Schizophrenia,schizophrenia,MONDO_0005090,100.0,exact
+Noonan's syndrome,Noonan syndrome,MONDO_0018997,93.75,fuzzy
+Motion sickness,motion sickness,EFO_0006928,100.0,exact
+Familial hypercholesterolemia - heterozygous,homozygous familial hypercholesterolemia,MONDO_0018328,90.47619047619048,fuzzy
+Hypercholesterolemia,Hypercholesterolemia,HP_0003124,100.0,exact
+Major depressive disorder,major depressive disorder,MONDO_0002009,100.0,exact
+Diabetes mellitus type 2,type 2 diabetes mellitus,MONDO_0005148,100.0,fuzzy
+Depressive disorder,depressive disorder,MONDO_0002050,100.0,exact
+Endometrial carcinoma,endometrial cancer,MONDO_0011962,76.92307692307692,fuzzy
+Acute monocytic leukemia,acute myeloid leukemia,EFO_0000222,78.26086956521739,fuzzy
+Acute myelogenous leukemia,acute myeloid leukemia,EFO_0000222,83.33333333333334,fuzzy
+Carcinoma of breast,breast carcinoma,EFO_0000305,91.42857142857143,fuzzy
+Glaucoma,glaucoma,MONDO_0005041,100.0,exact
+Diarrhea,Diarrhea,HP_0002014,100.0,exact
+Cardiovascular disease,cardiovascular disease,EFO_0000319,100.0,exact
+Familial Mediterranean fever,familial Mediterranean fever,MONDO_0018088,100.0,exact
+Hereditary angioneurotic edema,hereditary angioedema,MONDO_0019623,82.35294117647058,fuzzy
+Malignant tumor of colon,malignant colon neoplasm,MONDO_0021063,75.0,fuzzy
+Ocular hypertension,pulmonary hypertension,MONDO_0005149,82.92682926829268,fuzzy
+Gastrointestinal candidiasis,gastrointestinal disease,EFO_0010282,80.76923076923077,fuzzy
+Patent ductus arteriosus,Patent ductus arteriosus,HP_0001643,100.0,exact
+Constipation,Constipation,HP_0002019,100.0,exact
+Chronic schizophrenia,schizophrenia,MONDO_0005090,76.47058823529412,fuzzy
+Hypertrophic cardiomyopathy,hypertrophic cardiomyopathy 6,MONDO_0010946,96.42857142857143,fuzzy
+Mixed bipolar I disorder,bipolar I disorder,EFO_0009963,85.71428571428572,fuzzy
+Relapsing multiple sclerosis,multiple sclerosis,MONDO_0005301,78.26086956521739,fuzzy
+Bipolar disorder,bipolar disorder,MONDO_0004985,100.0,exact
+Cystinuria,cystinuria,MONDO_0009067,100.0,exact
+Malignant neoplasm of liver,malignant colon neoplasm,MONDO_0021063,78.43137254901961,fuzzy
+Hypogonadotropic hypogonadism,hypogonadotropic hypogonadism,MONDO_0018555,100.0,exact
+Malignant essential hypertension,essential hypertension,MONDO_0001134,81.4814814814815,fuzzy
+Metastatic Gastric Cancer,metastatic colorectal cancer,EFO_1001480,75.47169811320755,fuzzy
+Advanced ovarian cancer,ovarian cancer,MONDO_0008170,75.67567567567568,fuzzy
+Hereditary Angioedema Prevention,hereditary angioedema,MONDO_0019623,79.24528301886792,fuzzy
+Prader-Willi syndrome,Prader-Willi syndrome,MONDO_0008300,100.0,exact
+Turner syndrome,Usher syndrome,MONDO_0019501,82.75862068965517,fuzzy
+Malignant neoplasm of brain,malignant endocrine neoplasm,MONDO_0021069,80.0,fuzzy
+Partial Central Diabetes Insipidus,Central diabetes insipidus,HP_0000863,86.66666666666667,fuzzy
+Ulcerative cystitis,ulcerative colitis,EFO_0000729,86.48648648648648,fuzzy
+Hypophosphatemia,hypophosphatemia,MONDO_0000313,100.0,exact
+Acute monocytic/monoblastic leukemia,acute lymphoblastic leukemia,EFO_0000220,78.125,fuzzy
+Essential hypertension,essential hypertension,MONDO_0001134,100.0,exact
+Diabetes mellitus type 1,type 1 diabetes mellitus,MONDO_0005147,100.0,fuzzy
+Calculus in biliary tract,biliary tract cancer,MONDO_0003060,75.55555555555556,fuzzy
+Neonatal diabetes mellitus,diabetes mellitus,EFO_0000400,79.06976744186046,fuzzy
+Renal tubular acidosis,renal tubular dysgenesis,MONDO_0017609,78.26086956521739,fuzzy
+Myotonic disorder,dystonic disorder,MONDO_0003441,88.23529411764706,fuzzy
+Follicular lymphoma,follicular lymphoma,MONDO_0018906,100.0,exact
+Peptic reflux disease,peptic ulcer disease,MONDO_0004247,78.04878048780488,fuzzy
+Hypoalphalipoproteinemia,hypobetalipoproteinemia,MONDO_0017774,85.1063829787234,fuzzy
+Neoplasm of prostate,prostate neoplasm,MONDO_0021259,91.89189189189189,fuzzy
+Breast cancer,breast cancer,MONDO_0007254,100.0,exact
+Adenosine deaminase deficiency,deficiency of adenosine deaminase 2,MONDO_0014306,92.3076923076923,fuzzy
+Urinary bladder stone,urinary bladder cancer,MONDO_0001187,83.72093023255813,fuzzy
+Cerebrovascular accident,cerebrovascular accident,EFO_0000712,100.0,exact
+Relapsed acute myeloid leukemia,acute myeloid leukemia,EFO_0000222,83.01886792452831,fuzzy
+Refractory acute myeloid leukemia,acute myeloid leukemia,EFO_0000222,80.0,fuzzy
+Familial type 3 hyperlipoproteinemia,familial hypobetalipoproteinemia 1,MONDO_0014252,82.85714285714285,fuzzy
+Familial hypercholesterolemia - homozygous,homozygous familial hypercholesterolemia,MONDO_0018328,97.5609756097561,fuzzy
+Prevention of venous thromboembolism,venous thromboembolism,EFO_0004286,75.86206896551724,fuzzy
+Alzheimer's disease,Alzheimer disease,MONDO_0004975,94.44444444444444,fuzzy
+Liver transplant rejection,liver transplant,EFO_0010682,76.19047619047619,fuzzy
+Pulmonary hypertension,pulmonary hypertension,MONDO_0005149,100.0,exact
+Pulmonary arterial hypertension,pulmonary hypertension,MONDO_0005149,83.01886792452831,fuzzy
+Amyotrophic lateral sclerosis,amyotrophic lateral sclerosis,MONDO_0004976,100.0,exact
+Factor VII deficiency,factor VII deficiency,MONDO_0002244,100.0,exact
+COVID-19,COVID-19,MONDO_0100096,100.0,exact
+Ischemic stroke,Ischemic stroke,HP_0002140,100.0,exact
+Orthostatic hypotension,orthostatic hypotension 1,MONDO_0009123,95.83333333333334,fuzzy
+Homocystinuria,cystinuria,MONDO_0009067,83.33333333333334,fuzzy
+Essential thrombocythemia,thrombocythemia 2,MONDO_0011173,76.19047619047619,fuzzy
+Disorder due to type 2 diabetes mellitus,type 2 diabetes mellitus,MONDO_0005148,75.0,fuzzy
+Diabetes mellitus,diabetes mellitus,EFO_0000400,100.0,exact
+Factor II deficiency,factor VII deficiency,MONDO_0002244,97.5609756097561,fuzzy
+Gastrointestinal stromal tumor,gastrointestinal stromal tumor,MONDO_0011719,100.0,exact
+Echocardiography,electrocardiography,EFO_0004327,85.71428571428572,fuzzy
+Sitosterolemia,sitosterolemia 2,MONDO_0020748,93.33333333333333,fuzzy
+"Niemann-Pick disease, type C","Niemann-Pick disease, type C2",MONDO_0011873,98.24561403508771,fuzzy
+Secondary malignant neoplasm of colon,malignant colon neoplasm,MONDO_0021063,78.68852459016394,fuzzy
+Malignant neoplasm of breast,malignant endocrine neoplasm,MONDO_0021069,75.0,fuzzy
+Chronic myelomonocytic leukemia,chronic myelogenous leukemia,EFO_0000339,81.35593220338984,fuzzy
+Central neuropathic pain,neuropathic pain,EFO_0005762,80.0,fuzzy
+T-cell acute lymphoblastic leukemia,acute lymphoblastic leukemia,EFO_0000220,88.88888888888889,fuzzy
+Hyponatremia,Hyponatremia,HP_0002902,100.0,exact
+Paroxysmal nocturnal hemoglobinuria,paroxysmal nocturnal hemoglobinuria 1,MONDO_0010438,97.22222222222221,fuzzy
+Venous thromboembolic disease,venous thromboembolism,EFO_0004286,78.43137254901961,fuzzy
+Familial hypercholesterolemia,homozygous familial hypercholesterolemia,MONDO_0018328,84.05797101449275,fuzzy
+Adolescent males with hypogonadotropic hypogonadism,hypogonadotropic hypogonadism 24 without anosmia,MONDO_0009239,76.76767676767678,fuzzy
+Hyperammonemia associated with N-acetylglutamate synthase deficiency,hyperammonemia due to N-acetylglutamate synthase deficiency,MONDO_0009377,85.03937007874016,fuzzy
+Idiopathic pulmonary fibrosis,idiopathic pulmonary fibrosis,EFO_0000768,100.0,exact
+HER2negative breast cancer,Hereditary breast cancer,Orphanet_227535,76.0,fuzzy
+Medullary thyroid carcinoma,medullary thyroid gland carcinoma,MONDO_0015277,90.0,fuzzy
+Relapse multiple myeloma,multiple myeloma,EFO_0001378,80.0,fuzzy
+Veno-occlusive disease of the liver,hepatic veno-occlusive disease,MONDO_0019514,76.92307692307692,fuzzy
+Hyperphosphatemia,hypophosphatemia,MONDO_0000313,90.9090909090909,fuzzy
+Factor VIII deficiency,factor VII deficiency,MONDO_0002244,97.67441860465115,fuzzy
+Duchenne muscular dystrophy,Duchenne muscular dystrophy,MONDO_0010679,100.0,exact
+Pre B-cell acute lymphoblastic leukemia,acute lymphoblastic leukemia,EFO_0000220,83.5820895522388,fuzzy
+Papillary thyroid carcinoma,medullary thyroid gland carcinoma,MONDO_0015277,80.0,fuzzy
+Follicular thyroid carcinoma,medullary thyroid gland carcinoma,MONDO_0015277,75.40983606557377,fuzzy
+Hypophosphatasia,hypophosphatemia,MONDO_0000313,87.5,fuzzy
+Leber's optic atrophy,optic atrophy,MONDO_0003608,76.47058823529412,fuzzy
+Spinal muscular atrophy,"spinal muscular atrophy, type IV",MONDO_0010056,83.63636363636364,fuzzy
+Late-infantile neuronal ceroid lipofuscinosis,"ceroid lipofuscinosis, neuronal, 6A",MONDO_0011144,75.0,fuzzy
+Immune thrombocytopenia,thrombocytopenia 9,MONDO_0957572,82.92682926829268,fuzzy
+Biliary tract cancer,biliary tract cancer,MONDO_0003060,100.0,exact
+BardetBiedl syndrome,Bardet-Biedl syndrome,MONDO_0015229,97.5609756097561,fuzzy
+Malignant Neoplasm,malignant colon neoplasm,MONDO_0021063,85.71428571428572,fuzzy
+Acute lymphoblastic leukemia,acute lymphoblastic leukemia,EFO_0000220,100.0,exact
+Heart failure,heart failure,EFO_0003144,100.0,exact
+Thyroid eye disease,thyroid disease,EFO_1000627,88.23529411764706,fuzzy
+Dravet syndrome,Rett syndrome,MONDO_0010726,85.71428571428572,fuzzy
+Disorder of fatty acid metabolism,Disorder of lipid metabolism,Orphanet_309005,75.40983606557377,fuzzy
+Chronic infection caused by Hepatitis D virus,hepatitis C virus infection,EFO_0003047,75.0,fuzzy
+Transplant of kidney,kidney transplant,EFO_0010134,91.89189189189189,fuzzy
+"Primary hyperoxaluria, type I",primary hyperoxaluria type 2,MONDO_0009824,91.22807017543859,fuzzy
+Homozygous familial hypercholesterolemia,homozygous familial hypercholesterolemia,MONDO_0018328,100.0,exact
+Bipolar I disorder,bipolar I disorder,EFO_0009963,100.0,exact
+Pruritus in progressive familial intrahepatic cholestasis (PFIC),progressive familial intrahepatic cholestasis type 1,MONDO_0008892,82.75862068965517,fuzzy
+Von Hippel-Lindau (VHL) disease,von Hippel-Lindau disease,MONDO_0008667,89.28571428571429,fuzzy
+Achondroplasia,hypochondroplasia,MONDO_0007793,83.87096774193549,fuzzy
+Obstructive hypertrophic cardiomyopathy (HCM),hypertrophic cardiomyopathy 6,MONDO_0010946,75.67567567567568,fuzzy
+"Niemann-Pick disease, type A","Niemann-Pick disease, type C2",MONDO_0011873,94.73684210526316,fuzzy
+"Niemann-Pick disease, type B","Niemann-Pick disease, type C2",MONDO_0011873,94.73684210526316,fuzzy
+Hepatorenal syndrome,hepatorenal syndrome,MONDO_0001382,100.0,exact
+Rett syndrome,Rett syndrome,MONDO_0010726,100.0,exact

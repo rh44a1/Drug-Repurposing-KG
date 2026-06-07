@@ -1,0 +1,19 @@
+Drug,Disease,ChEMBL ID,Disease ID,Confidence
+Hydrocortisone,Iridocyclitis,CHEMBL389621,MONDO_0004773,1.0
+Hydrocortisone,Multiple sclerosis,CHEMBL389621,MONDO_0005301,0.983
+Hydrocortisone,Congenital adrenal hyperplasia,CHEMBL389621,MONDO_0018479,0.837
+Pemigatinib,Biliary tract cancer,CHEMBL4297522,MONDO_0003060,0.595
+Tirzepatide,Diabetes mellitus type 2,CHEMBL4297839,MONDO_0005148,0.554
+Tirzepatide,Diabetes mellitus type 2,CHEMBL4297839,MONDO_0005148,0.554
+Berotralstat,Hereditary angioneurotic edema,CHEMBL5189739,MONDO_0019623,0.431
+Omidenepag Isopropyl,Glaucoma,CHEMBL4297666,MONDO_0005041,0.365
+Taurursodiol,Amyotrophic lateral sclerosis,CHEMBL272427,MONDO_0004976,0.307
+Ivosidenib,Biliary tract cancer,CHEMBL3989958,MONDO_0003060,0.234
+Bexagliflozin,Diabetes mellitus type 2,CHEMBL1808388,MONDO_0005148,0.202
+Samidorphan,Schizophrenia,CHEMBL426084,MONDO_0005090,0.169
+Belzutifan,Von Hippel-Lindau (VHL) disease,CHEMBL4585668,MONDO_0008667,0.15
+Ripretinib,Gastrointestinal stromal tumor,CHEMBL4216467,MONDO_0011719,0.113
+Odevixibat,Pruritus in progressive familial intrahepatic cholestasis (PFIC),CHEMBL4297588,MONDO_0008892,0.087
+Odevixibat,Pruritus in progressive familial intrahepatic cholestasis (PFIC),CHEMBL4297588,MONDO_0008892,0.087
+Sotagliflozin,Diabetes mellitus type 1,CHEMBL3039507,MONDO_0005148,0.031
+Risperidone,Schizophrenia,CHEMBL85,MONDO_0005090,0.0
