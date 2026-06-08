@@ -90,3 +90,9 @@ data/processed/protein_protein.csv
 data/processed/stitch.csv
 
 src/scratch/
+
+models/
+*.zip
+*.tsv.gz
+*.gz
+data/processed/triples.csv
