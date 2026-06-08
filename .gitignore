@@ -1,25 +1,92 @@
-# Python
-.venv/
+# ── Python ────────────────────────────────────────────────────────────────────
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
 
-# Data
-data/raw/
-data/processed/*.parquet
-data/processed/*.pkl
+# ── Virtual environments ───────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
 
-# Models
+# ── Jupyter ────────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+# uncomment below if you don't want to push notebooks at all
+# *.ipynb
+
+# ── Large raw data files (too big for GitHub) ─────────────────────────────────
+data/raw/chembl_37.db
+data/raw/*.db
+data/raw/*.parquet
+data/raw/*.h5
+data/raw/*.hdf5
+data/raw/protein_protein.csv
+data/raw/stitch.csv
+
+# ── Model weights (too big for GitHub) ────────────────────────────────────────
 models/
-checkpoints/
+*.pkl
 *.pt
 *.pth
-*.ckpt
 *.bin
-*.pickle
+*.ckpt
 
-# Experiment tracking
-wandb/
-mlruns/
+# ── Processed data (regeneratable from scripts) ───────────────────────────────
+# comment out if you WANT to push processed CSVs
+# data/processed/
 
-# Neo4j
-neo4j/
+# ── OS junk ───────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE / editor ──────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Credentials / secrets ─────────────────────────────────────────────────────
+.env
+*.env
+secrets.py
+config_local.py
+credentials.json
+
+# ── Neo4j ─────────────────────────────────────────────────────────────────────
+neo4j/data/
+neo4j/logs/
+neo4j/import/
+
+# ── Logs and temp files ───────────────────────────────────────────────────────
+*.log
+*.tmp
+*.temp
+logs/
+tmp/
+
+# ── PyKEEN training artifacts ─────────────────────────────────────────────────
+results/
+training_loop/
+checkpoints/
+
+# ── Figures (keep the final ones, ignore intermediate) ────────────────────────
+# comment out if you want to push all figures
+# *.png
+# *.pdf
+
+data/raw/
+data/processed/kg.pkl
+data/processed/splits/
+data/processed/protein_protein.csv
+data/processed/stitch.csv
+
+src/scratch/
