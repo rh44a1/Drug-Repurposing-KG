@@ -21,7 +21,7 @@ print(f"\nTop 20 Novel Repurposing Predictions:")
 print("="*80)
 print(f"{'#':<4} {'Drug':<25} {'Disease':<35} {'Conf':>6}")
 print("-"*80)
-for i, row in pred_df.head(20).iterrows():
+for i, row in pred_df.head(50).iterrows():
     print(f"{i+1:<4} {str(row['drug_name']):<25} {str(row['disease_name']):<35} {row['confidence']:>6.3f}")
 print("="*80)
 

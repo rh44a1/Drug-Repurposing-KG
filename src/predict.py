@@ -172,16 +172,7 @@ else:
     max_s = pred_df['score'].max()
     pred_df['confidence'] = ((pred_df['score'] - min_s) / (max_s - min_s)).round(3)
     pred_df = pred_df.drop(columns=['score'])
-    pred_df['confidence'] = ((pred_df['score'] - min_s) / (max_s - min_s)).round(3)
-    pred_df = pred_df.drop(columns=['score'])  # ← after this line
-
-# Filter out non-disease terms
-    exclude_terms = ['count', 'measurement', 'ratio', 'percentage',
-                 'level', 'volume', 'mass', 'system disease',
-                 'disorder', 'finding', 'structure']
-    pred_df = pred_df[~pred_df['disease_name'].str.lower().str.contains(
-    '|'.join(exclude_terms), na=False)]
-    pred_df = pred_df.reset_index(drop=True)
+    
 
     print(f"\nTop 20 Novel Repurposing Predictions:")
     print("="*80)

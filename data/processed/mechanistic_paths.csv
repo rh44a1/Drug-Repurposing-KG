@@ -1,0 +1,51 @@
+prediction,drug,direct_target,target_gene,interactor
+RUXOLITINIB → Alzheimer,RUXOLITINIB,Ribosomal protein S6 kinase alpha-1,RPS6KA1,MEFV
+RUXOLITINIB → Alzheimer,RUXOLITINIB,Ribosomal protein S6 kinase alpha-1,RPS6KA1,CEBPB
+RUXOLITINIB → Alzheimer,RUXOLITINIB,Cyclin-G-associated kinase,GAK,CLTC
+RUXOLITINIB → Alzheimer,RUXOLITINIB,Cyclin-G-associated kinase,GAK,EPN1
+RUXOLITINIB → Alzheimer,RUXOLITINIB,Cyclin-G-associated kinase,GAK,LRRK2
+RUXOLITINIB → Alzheimer,RUXOLITINIB,Cyclin-G-associated kinase,GAK,CCNG1
+RUXOLITINIB → Alzheimer,RUXOLITINIB,Ribosomal protein S6 kinase alpha-6,RPS6KA6,MAPK1
+RUXOLITINIB → Alzheimer,RUXOLITINIB,Rhodopsin kinase GRK1,GRK1,RCVRN
+RUXOLITINIB → Alzheimer,RUXOLITINIB,Calcium/calmodulin-dependent protein kinase type II subunit alpha,CAMK2A,ADCY8
+RUXOLITINIB → Alzheimer,RUXOLITINIB,Calcium/calmodulin-dependent protein kinase type II subunit alpha,CAMK2A,MAP3K7
+ENTRECTINIB → Alzheimer,ENTRECTINIB,Tyrosine-protein kinase FRK,FRK,BNIP2
+ENTRECTINIB → Alzheimer,ENTRECTINIB,Epithelial discoidin domain-containing receptor 1,DDR1,COL3A1
+ENTRECTINIB → Alzheimer,ENTRECTINIB,Epithelial discoidin domain-containing receptor 1,DDR1,TM4SF1
+ENTRECTINIB → Alzheimer,ENTRECTINIB,Macrophage colony-stimulating factor 1 receptor,CSF1R,TLR4
+ENTRECTINIB → Alzheimer,ENTRECTINIB,Macrophage colony-stimulating factor 1 receptor,CSF1R,CD4
+ENTRECTINIB → Alzheimer,ENTRECTINIB,Macrophage colony-stimulating factor 1 receptor,CSF1R,SHC1
+ENTRECTINIB → Alzheimer,ENTRECTINIB,Macrophage colony-stimulating factor 1 receptor,CSF1R,PIK3R1
+ENTRECTINIB → Alzheimer,ENTRECTINIB,Macrophage colony-stimulating factor 1 receptor,CSF1R,CSF2
+ENTRECTINIB → Alzheimer,ENTRECTINIB,Macrophage colony-stimulating factor 1 receptor,CSF1R,SHC2
+ENTRECTINIB → Alzheimer,ENTRECTINIB,Macrophage colony-stimulating factor 1 receptor,CSF1R,INS
+FOSTAMATINIB → Multiple Sclerosis,FOSTAMATINIB,Receptor-type tyrosine-protein kinase FLT3,FLT3,CD48
+FOSTAMATINIB → Multiple Sclerosis,FOSTAMATINIB,Receptor-type tyrosine-protein kinase FLT3,FLT3,SHC1
+FOSTAMATINIB → Multiple Sclerosis,FOSTAMATINIB,Receptor-type tyrosine-protein kinase FLT3,FLT3,ITGAM
+FOSTAMATINIB → Multiple Sclerosis,FOSTAMATINIB,Receptor-type tyrosine-protein kinase FLT3,FLT3,PIK3CA
+FOSTAMATINIB → Multiple Sclerosis,FOSTAMATINIB,Receptor-type tyrosine-protein kinase FLT3,FLT3,CBL
+FOSTAMATINIB → Multiple Sclerosis,FOSTAMATINIB,Receptor-type tyrosine-protein kinase FLT3,FLT3,SHC3
+FOSTAMATINIB → Multiple Sclerosis,FOSTAMATINIB,Receptor-type tyrosine-protein kinase FLT3,FLT3,STAT5A
+FOSTAMATINIB → Multiple Sclerosis,FOSTAMATINIB,Receptor-type tyrosine-protein kinase FLT3,FLT3,PIK3R3
+FOSTAMATINIB → Multiple Sclerosis,FOSTAMATINIB,Receptor-type tyrosine-protein kinase FLT3,FLT3,FGF8
+FOSTAMATINIB → Multiple Sclerosis,FOSTAMATINIB,Receptor-type tyrosine-protein kinase FLT3,FLT3,CDKN2A
+PALBOCICLIB → Bladder Cancer,PALBOCICLIB,Cyclin-dependent kinase 2,CDK2,MDM2
+PALBOCICLIB → Bladder Cancer,PALBOCICLIB,Cyclin-dependent kinase 2,CDK2,RCC1
+PALBOCICLIB → Bladder Cancer,PALBOCICLIB,Cyclin-dependent kinase 2,CDK2,HIF1A
+PALBOCICLIB → Bladder Cancer,PALBOCICLIB,Cyclin-dependent kinase 2,CDK2,ATR
+PALBOCICLIB → Bladder Cancer,PALBOCICLIB,Cyclin-dependent kinase 2,CDK2,CDK1
+PALBOCICLIB → Bladder Cancer,PALBOCICLIB,Cyclin-dependent kinase 2,CDK2,SPDYC
+PALBOCICLIB → Bladder Cancer,PALBOCICLIB,Cyclin-dependent kinase 2,CDK2,RBBP8
+PALBOCICLIB → Bladder Cancer,PALBOCICLIB,Cyclin-dependent kinase 2,CDK2,SPDYE1
+PALBOCICLIB → Bladder Cancer,PALBOCICLIB,Cyclin-dependent kinase 2,CDK2,CCNF
+PALBOCICLIB → Bladder Cancer,PALBOCICLIB,Cyclin-dependent kinase 2,CDK2,ORC1
+TG100-115 → Parkinson,TG100-115,Epidermal growth factor receptor,EGFR,BCAR1
+TG100-115 → Parkinson,TG100-115,Epidermal growth factor receptor,EGFR,CTNNB1
+TG100-115 → Parkinson,TG100-115,Epidermal growth factor receptor,EGFR,RICTOR
+TG100-115 → Parkinson,TG100-115,Epidermal growth factor receptor,EGFR,NFKB1
+TG100-115 → Parkinson,TG100-115,Epidermal growth factor receptor,EGFR,FN1
+TG100-115 → Parkinson,TG100-115,Epidermal growth factor receptor,EGFR,IL13RA2
+TG100-115 → Parkinson,TG100-115,Epidermal growth factor receptor,EGFR,MST1R
+TG100-115 → Parkinson,TG100-115,Epidermal growth factor receptor,EGFR,ENO1
+TG100-115 → Parkinson,TG100-115,Epidermal growth factor receptor,EGFR,KDR
+TG100-115 → Parkinson,TG100-115,Epidermal growth factor receptor,EGFR,TAB1
