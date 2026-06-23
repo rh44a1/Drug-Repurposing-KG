@@ -2,7 +2,7 @@
 
 > Identifying novel therapeutic candidates through multi-relational graph learning over a 973K-triple biomedical knowledge graph, extended with protein sequence embeddings from ESM2-650M.
 
-**Preprint:** [ChemRxiv](https://chemrxiv.org) &nbsp;|&nbsp; **Stack:** PyKEEN · PyTorch · ESM2 · Neo4j · Scanpy · PyG
+**Preprint:** [ChemRxiv](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15004946) &nbsp;|&nbsp; **Stack:** PyKEEN · PyTorch · ESM2 · Neo4j · Scanpy · PyG
 
 ---
 
@@ -158,10 +158,11 @@ pip install -r requirements.txt
 If you use this work, please cite the ChemRxiv preprint:
 
 ```
-@article{yourname2026drug,
-  title={Drug Repurposing via Knowledge Graph Embedding with ESM2 Protein Sequence Features},
-  author={Your Name},
+@article{sankar2026drug,
+  title={Drug Repurposing via Biomedical Knowledge Graph Embedding},
+  author={Sankar, Rhea},
   journal={ChemRxiv},
-  year={2026}
+  year={2026},
+  doi={10.26434/chemrxiv.15004946}
 }
 ```
