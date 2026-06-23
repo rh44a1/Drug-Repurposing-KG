@@ -78,7 +78,7 @@ Beyond link prediction scores, the model traces interpretable Drug → Protein �
 | Palbociclib | Bladder Cancer | Active NCT clinical trial found |
 | Entrectinib | Alzheimer's Disease | CSF1R–TLR4 neuroinflammation axis |
 
-Full ranked predictions: [`data/processed/novel_predictions_esm2.csv`](data/processed/novel_predictions_esm2.csv)
+Full ranked predictions: [`data/processed/novel_predictions.csv`](data/processed/novel_predictions_esm2.csv)
 
 ---
 
