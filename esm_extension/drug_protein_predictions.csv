@@ -1,0 +1,51 @@
+drug_id,drug_name,disease_name,repurposing_confidence,predicted_target_uniprot,predicted_target_gene,binding_score
+CHEMBL1721885,SU-014813,Alzheimer disease,1.0,P27448,MAP/microtubule affinity-regulating kinase 3,-4.397567272186279
+CHEMBL1721885,SU-014813,Alzheimer disease,1.0,O94806,Serine/threonine-protein kinase D3,-4.496121883392334
+CHEMBL1721885,SU-014813,Alzheimer disease,1.0,Q12851,Mitogen-activated protein kinase kinase kinase kinase 2,-4.590635299682617
+CHEMBL1721885,SU-014813,Alzheimer disease,1.0,Q9Y616,Interleukin-1 receptor-associated kinase 3,-4.755855560302734
+CHEMBL1721885,SU-014813,Alzheimer disease,1.0,Q13470,Non-receptor tyrosine-protein kinase TNK1,-4.922395706176758
+CHEMBL1230609,FORETINIB,Alzheimer disease,0.991,Q8N4C8,Misshapen-like kinase 1,-4.54429292678833
+CHEMBL1230609,FORETINIB,Alzheimer disease,0.991,P51617,Interleukin-1 receptor-associated kinase 1,-4.863232135772705
+CHEMBL1230609,FORETINIB,Alzheimer disease,0.991,O14976,Cyclin-G-associated kinase,-5.171388626098633
+CHEMBL1230609,FORETINIB,Alzheimer disease,0.991,P52333,Tyrosine-protein kinase JAK3,-5.17504358291626
+CHEMBL1230609,FORETINIB,Alzheimer disease,0.991,Q12851,Mitogen-activated protein kinase kinase kinase kinase 2,-5.1882100105285645
+CHEMBL1983268,ENTRECTINIB,Alzheimer disease,0.985,P09619,Platelet-derived growth factor receptor beta,-4.723311901092529
+CHEMBL1983268,ENTRECTINIB,Alzheimer disease,0.985,P08631,Tyrosine-protein kinase HCK,-4.812792778015137
+CHEMBL1983268,ENTRECTINIB,Alzheimer disease,0.985,P42684,Tyrosine-protein kinase ABL2,-5.011005878448486
+CHEMBL1983268,ENTRECTINIB,Alzheimer disease,0.985,P16234,Platelet-derived growth factor receptor alpha,-5.016996383666992
+CHEMBL1983268,ENTRECTINIB,Alzheimer disease,0.985,Q5S007,Leucine-rich repeat serine/threonine-protein kinase 2,-5.091799736022949
+CHEMBL223360,LINIFANIB,Alzheimer disease,0.981,P22607,Fibroblast growth factor receptor 3,-4.9961371421813965
+CHEMBL223360,LINIFANIB,Alzheimer disease,0.981,Q8N4C8,Misshapen-like kinase 1,-5.121513843536377
+CHEMBL223360,LINIFANIB,Alzheimer disease,0.981,P00519,Tyrosine-protein kinase ABL1,-5.169961452484131
+CHEMBL223360,LINIFANIB,Alzheimer disease,0.981,P08631,Tyrosine-protein kinase HCK,-5.1873321533203125
+CHEMBL223360,LINIFANIB,Alzheimer disease,0.981,P42684,Tyrosine-protein kinase ABL2,-5.238448619842529
+CHEMBL1980297,ILORASERTIB,Alzheimer disease,0.972,P08631,Tyrosine-protein kinase HCK,-4.824562072753906
+CHEMBL1980297,ILORASERTIB,Alzheimer disease,0.972,O94804,Serine/threonine-protein kinase 10,-5.0257248878479
+CHEMBL1980297,ILORASERTIB,Alzheimer disease,0.972,P07947,Tyrosine-protein kinase Yes,-5.057893753051758
+CHEMBL1980297,ILORASERTIB,Alzheimer disease,0.972,Q9Y4K4,Mitogen-activated protein kinase kinase kinase kinase 5,-5.136847496032715
+CHEMBL1980297,ILORASERTIB,Alzheimer disease,0.972,P52333,Tyrosine-protein kinase JAK3,-5.163731575012207
+CHEMBL1240703,CGP-52421,multiple sclerosis,0.966,O94804,Serine/threonine-protein kinase 10,-4.799239635467529
+CHEMBL1240703,CGP-52421,multiple sclerosis,0.966,P07948,Tyrosine-protein kinase Lyn,-4.8531599044799805
+CHEMBL1240703,CGP-52421,multiple sclerosis,0.966,P16591,Tyrosine-protein kinase Fer,-4.904036998748779
+CHEMBL1240703,CGP-52421,multiple sclerosis,0.966,Q96GD4,Aurora kinase B,-4.9285759925842285
+CHEMBL1240703,CGP-52421,multiple sclerosis,0.966,Q14289,Protein-tyrosine kinase 2-beta,-4.989113807678223
+CHEMBL1336,SORAFENIB,Alzheimer disease,0.958,Q02750,Dual specificity mitogen-activated protein kinase kinase 1,-5.256678581237793
+CHEMBL1336,SORAFENIB,Alzheimer disease,0.958,P42684,Tyrosine-protein kinase ABL2,-5.263849258422852
+CHEMBL1336,SORAFENIB,Alzheimer disease,0.958,P06241,Tyrosine-protein kinase Fyn,-5.322230339050293
+CHEMBL1336,SORAFENIB,Alzheimer disease,0.958,Q9Y616,Interleukin-1 receptor-associated kinase 3,-5.387544631958008
+CHEMBL1336,SORAFENIB,Alzheimer disease,0.958,Q92918,Mitogen-activated protein kinase kinase kinase kinase 1,-5.398214817047119
+CHEMBL2041933,AZD-7762,Alzheimer disease,0.955,Q9H2G2,STE20-like serine/threonine-protein kinase,-4.942888259887695
+CHEMBL2041933,AZD-7762,Alzheimer disease,0.955,O94806,Serine/threonine-protein kinase D3,-5.156632900238037
+CHEMBL2041933,AZD-7762,Alzheimer disease,0.955,Q8N4C8,Misshapen-like kinase 1,-5.216585636138916
+CHEMBL2041933,AZD-7762,Alzheimer disease,0.955,Q13555,Calcium/calmodulin-dependent protein kinase type II subunit gamma,-5.260088920593262
+CHEMBL2041933,AZD-7762,Alzheimer disease,0.955,P06239,Tyrosine-protein kinase Lck,-5.295469760894775
+CHEMBL1789941,RUXOLITINIB,Alzheimer disease,0.952,O94804,Serine/threonine-protein kinase 10,-5.332782745361328
+CHEMBL1789941,RUXOLITINIB,Alzheimer disease,0.952,P49759,Dual specificity protein kinase CLK1,-5.355971813201904
+CHEMBL1789941,RUXOLITINIB,Alzheimer disease,0.952,Q13131,5'-AMP-activated protein kinase catalytic subunit alpha-1,-5.379580974578857
+CHEMBL1789941,RUXOLITINIB,Alzheimer disease,0.952,Q14289,Protein-tyrosine kinase 2-beta,-5.430744171142578
+CHEMBL1789941,RUXOLITINIB,Alzheimer disease,0.952,Q9UHD2,Serine/threonine-protein kinase TBK1,-5.434962272644043
+CHEMBL191003,JNJ-7706621,prostate cancer,0.952,Q8N4C8,Misshapen-like kinase 1,-4.930573463439941
+CHEMBL191003,JNJ-7706621,prostate cancer,0.952,Q9Y4K4,Mitogen-activated protein kinase kinase kinase kinase 5,-4.94850492477417
+CHEMBL191003,JNJ-7706621,prostate cancer,0.952,O94806,Serine/threonine-protein kinase D3,-4.997281074523926
+CHEMBL191003,JNJ-7706621,prostate cancer,0.952,P51451,Tyrosine-protein kinase Blk,-5.00137996673584
+CHEMBL191003,JNJ-7706621,prostate cancer,0.952,Q9UKE5,TRAF2 and NCK-interacting protein kinase,-5.046505928039551

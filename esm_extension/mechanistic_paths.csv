@@ -1,0 +1,13 @@
+drug_name,predicted_target_uniprot,predicted_target_gene,ensembl_id,mechanistic_disease,mechanistic_disease_id,repurposing_disease,binding_score
+ENTRECTINIB,P09619,Platelet-derived growth factor receptor beta,ENSG00000113721,skeletal overgrowth-craniofacial dysmorphism-hyperelastic skin-white matter lesions syndrome,MONDO_0014704,Alzheimer disease,-4.723311901092529
+ENTRECTINIB,P09619,Platelet-derived growth factor receptor beta,ENSG00000113721,idiopathic pulmonary fibrosis,EFO_0000768,Alzheimer disease,-4.723311901092529
+ENTRECTINIB,P42684,Tyrosine-protein kinase ABL2,ENSG00000143322,obsolete_neurodegenerative disease,EFO_0005772,Alzheimer disease,-5.011005878448486
+LINIFANIB,P22607,Fibroblast growth factor receptor 3,ENSG00000068078,biliary tract cancer,MONDO_0003060,Alzheimer disease,-4.9961371421813965
+LINIFANIB,P22607,Fibroblast growth factor receptor 3,ENSG00000068078,hypochondroplasia,MONDO_0007793,Alzheimer disease,-4.9961371421813965
+LINIFANIB,P22607,Fibroblast growth factor receptor 3,ENSG00000068078,severe achondroplasia-developmental delay-acanthosis nigricans syndrome,MONDO_0014658,Alzheimer disease,-4.9961371421813965
+LINIFANIB,P22607,Fibroblast growth factor receptor 3,ENSG00000068078,body height,OBA_VT0001253,Alzheimer disease,-4.9961371421813965
+LINIFANIB,P22607,Fibroblast growth factor receptor 3,ENSG00000068078,Severe achondroplasia - developmental delay - acanthosis nigricans,Orphanet_85165,Alzheimer disease,-4.9961371421813965
+LINIFANIB,P42684,Tyrosine-protein kinase ABL2,ENSG00000143322,obsolete_neurodegenerative disease,EFO_0005772,Alzheimer disease,-5.238448619842529
+CGP-52421,P07948,Tyrosine-protein kinase Lyn,ENSG00000254087,chronic myelogenous leukemia,EFO_0000339,multiple sclerosis,-4.8531599044799805
+SORAFENIB,P42684,Tyrosine-protein kinase ABL2,ENSG00000143322,obsolete_neurodegenerative disease,EFO_0005772,Alzheimer disease,-5.263849258422852
+JNJ-7706621,Q9UKE5,TRAF2 and NCK-interacting protein kinase,ENSG00000154310,lean body mass,EFO_0004995,prostate cancer,-5.046505928039551

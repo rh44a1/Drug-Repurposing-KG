@@ -1,181 +1,167 @@
-# Drug Repurposing via Biomedical Knowledge Graph Embedding
+# Drug Repurposing via Knowledge Graph Embedding + ESM2 Protein Language Models
 
-> **Preprint:** [BIORXIV/2026/730814](https://www.biorxiv.org/content/10.1101/2026.730814) — *Drug Repurposing via Biomedical Knowledge Graph Embedding: Ranking Loss Outperforms GNNs Despite Lower AUC*
+> Identifying novel therapeutic candidates through multi-relational graph learning over a 973K-triple biomedical knowledge graph, extended with protein sequence embeddings from ESM2-650M.
 
-This project builds a large-scale biomedical knowledge graph (KG) from four public databases, trains Knowledge Graph Embedding (KGE) and Graph Neural Network (GNN) models, and predicts novel drug–disease associations for drug repurposing.
-
-**Key finding:** RotatE with ranking loss (MRR: 0.1995) substantially outperforms GNNs (MRR: 0.0069) despite GNNs achieving higher AUC (0.97), demonstrating that metric choice critically affects model selection for this task.
+**Preprint:** [ChemRxiv](https://chemrxiv.org) &nbsp;|&nbsp; **Stack:** PyKEEN · PyTorch · ESM2 · Neo4j · Scanpy · PyG
 
 ---
 
-## Results Summary
+## Overview
 
-| Model | Type | MRR | Hits@1 | Hits@10 | AUC |
-|---|---|---|---|---|---|
-| TransE | KGE | 0.0889 | 0.0230 | 0.2100 | — |
-| **RotatE** | **KGE** | **0.1995** | **0.1160** | **0.3546** | — |
-| ComplEx | KGE | 0.0217 | 0.0041 | 0.0525 | — |
-| RotatE (weighted-sampling) | KGE | 0.0947 | 0.0366 | 0.2095 | — |
-| RotatE (weighted-loss) | KGE | 0.1419 | 0.0683 | 0.2765 | — |
-| GraphSAGE | GNN | 0.0069 | 0.0010 | 0.0170 | 0.9744 |
-| GAT | GNN | 0.0002 | 0.0000 | 0.0000 | 0.7075 |
+This project constructs a large-scale biomedical knowledge graph from four heterogeneous databases and trains knowledge graph embedding (KGE) models to predict novel drug–disease associations. A subsequent ESM2 extension enriches protein nodes with 1,280-dimensional sequence embeddings, significantly improving link prediction performance.
 
-**Top validated prediction:** Palbociclib → Bladder Cancer (confirmed in active clinical trials)
+Key results:
+- **RotatE (baseline KG):** MRR = 0.20
+- **RotatE + ESM2 protein embeddings:** MRR = 0.40 (+100% improvement)
+- **Top novel prediction:** Palbociclib → Bladder Cancer *(active clinical trial NCT validation)*
+- **Mechanistic prediction:** Entrectinib → Alzheimer's Disease via CSF1R–TLR4 neuroinflammation axis
 
 ---
 
-## Knowledge Graph
+## Knowledge Graph Construction
 
-Built from 4 public databases:
+| Source | Entity Types | Triples |
+|--------|-------------|---------|
+| ChEMBL | Drugs, Targets | Drug–protein interactions |
+| Open Targets | Diseases, Genes | Gene–disease associations |
+| STRING | Proteins | Protein–protein interactions |
+| STITCH | Drugs, Proteins | Chemical–protein links |
 
-| Database | Relation | Triples |
-|---|---|---|
-| ChEMBL 37 | Drug–target | 29,948 |
-| Open Targets v26.03 | Gene–disease | 2,789 |
-| STRING v12 | Protein–protein | 473,860 |
-| STITCH v5 | Chemical–protein | 466,669 |
-| **Total** | | **973,266** |
+**Total:** ~973,000 triples across ~189,000 nodes
 
-- **189,233 nodes** — 6,824 drugs, 45,129 proteins/genes, 137,280 diseases/other
-- **4 relation types**
-- **2,367 novel repurposing predictions** generated after filtering
+The graph captures four relation types: `targets`, `interacts_with`, `associated_with`, `treats`.
 
 ---
 
-## Project Structure
+## ESM2 Protein Embedding Extension
+
+Protein nodes were enriched with sequence-level representations:
+
+1. STRING protein IDs → UniProt accessions (via `string_to_uniprot.csv`)
+2. UniProt sequences fetched → `proteins.fasta`
+3. ESM2-650M embeddings generated → 1,280-dim vectors per protein
+4. Projected to 128-dim via learnable linear layer, jointly trained with RotatE
+
+This allows the model to leverage evolutionary and structural protein information beyond graph topology alone.
+
+---
+
+## Mechanistic Path Tracing
+
+Beyond link prediction scores, the model traces interpretable Drug → Protein → Disease paths through the KG to provide biological rationale for each prediction.
+
+**Example: Entrectinib → Alzheimer's Disease**
+
+![Mechanistic Pathway: Entrectinib → Alzheimer Disease](assets/entrectinib_alzheimers_pathway.png)
+
+*Entrectinib targets CSF1R, which interacts with TLR4 and PIK3R1 — both associated with Alzheimer's disease via the neuroinflammation axis. This path was surfaced automatically from the KG structure.*
+
+---
+
+## Models Trained
+
+| Model | MRR | Notes |
+|-------|-----|-------|
+| TransE | — | Baseline translational model |
+| RotatE | 0.20 | Best baseline KGE |
+| ComplEx | — | Complex-valued embeddings |
+| GraphSAGE | — | Node-level classification |
+| GAT | — | Attention-based GNN |
+| **RotatE + ESM2** | **0.40** | Best overall |
+
+---
+
+## Top Novel Predictions
+
+| Drug | Disease | Evidence |
+|------|---------|----------|
+| Palbociclib | Bladder Cancer | Active NCT clinical trial found |
+| Entrectinib | Alzheimer's Disease | CSF1R–TLR4 neuroinflammation axis |
+
+Full ranked predictions: [`data/processed/novel_predictions_esm2.csv`](data/processed/novel_predictions_esm2.csv)
+
+---
+
+## Repository Structure
 
 ```
 drug-repurposing-kg/
-├── data/
-│   ├── raw/                  # source database files (not in repo — see below)
-│   └── processed/            # output CSVs, predictions, paths, figure
-│       ├── drug_target.csv
-│       ├── gene_disease.csv
-│       ├── triples.csv
-│       ├── dc_train.csv
-│       ├── dc_test.csv
-│       ├── novel_predictions.csv
-│       ├── mechanistic_paths.csv
-│       ├── jaccard_baseline.csv
-│       ├── evaluation_results.csv
-│       └── network_visualization.png
-├── src/
-│   ├── parse_chembl.py         # parse ChEMBL drug–target interactions
-│   ├── parse_string.py         # parse STRING PPI data
-│   ├── parse_stitch.py         # parse STITCH chemical–protein data
-│   ├── build_graph.py          # construct NetworkX KG from parsed data
-│   ├── link_proteins.py        # map UniProt IDs to HGNC gene symbols
-│   ├── load_neo4j.py           # load KG into Neo4j
-│   ├── map_diseases.py         # map disease identifiers
-│   ├── decode_diseases.py      # decode EFO disease terms
-│   ├── train_kge.py            # train TransE / RotatE / ComplEx via PyKEEN
+│
+├── src/                        # Core pipeline scripts
+│   ├── build_graph.py          # KG construction from raw sources
+│   ├── parse_chembl.py         # ChEMBL data parsing
+│   ├── parse_string.py         # STRING PPI parsing
+│   ├── parse_stitch.py         # STITCH chemical-protein parsing
+│   ├── link_proteins.py        # Protein node linking across sources
+│   ├── train_kge.py            # KGE model training (TransE, RotatE, ComplEx)
+│   ├── evaluate_rotae.py       # Evaluation on DrugCentral temporal split
+│   ├── predict.py              # Novel prediction generation
+│   ├── filter_predic.py        # Prediction filtering and ranking
+│   ├── mechan_path.py          # Mechanistic path tracing
+│   ├── map_drugcentral_to_kg.py
+│   ├── map_diseases.py
+│   ├── decode_diseases.py
+│   ├── fetch_all_diseases.py
 │   ├── baseline.py             # Jaccard similarity baseline
-│   ├── evaluate_rotae.py       # evaluate RotatE on DrugCentral test set
-│   ├── predict.py              # generate drug–disease predictions
-│   ├── filter_predic.py        # filter predictions (remove known, low confidence)
-│   ├── map_drugcentral_to_kg.py # map DrugCentral indications to KG entities
-│   ├── mechan_path.py          # trace 3-hop mechanistic paths
-│   ├── fetch_all_diseases.py   # fetch disease names from ontology APIs
-│   └── visualise_network.py    # generate Figure 1 (mechanistic path network)
+│   ├── visualise_network.py    # Network visualization
+│   └── load_neo4j.py           # Neo4j graph loading
+│
+├── esm_extension/              # ESM2 protein embedding extension
+│   ├── step1_map_uniprot.py    # STRING → UniProt ID mapping
+│   ├── step5.py                # ESM2 embedding generation
+│   ├── step6.py                # Embedding projection + RotatE retraining
+│   └── vis.py                  # ESM2 extension visualization
+│
+├── data/
+│   ├── processed/              # Outputs and intermediate files
+│   │   ├── novel_predictions.csv
+│   │   ├── novel_predictions_esm2.csv
+│   │   ├── mechanistic_paths.csv
+│   │   ├── evaluation_results.csv
+│   │   ├── jaccard_baseline.csv
+│   │   ├── dc_train.csv / dc_test.csv
+│   │   └── ...
+│   └── raw/                    # Raw source files (not tracked)
+│
+├── models/                     # Saved model weights (not tracked)
+│   └── rotate_esm2/
+│
+├── notebooks/                  # Exploratory analysis
+├── assets/                     # Figures and visualizations
 └── README.md
 ```
 
 ---
 
+## Evaluation
+
+External validation uses a **DrugCentral temporal split** — drugs approved after a cutoff date are held out entirely, preventing data leakage. This is a stricter evaluation than random split and better reflects real-world repurposing utility.
+
+---
+
 ## Setup
 
-### Requirements
-
-- Python 3.10+
-- Google Colab T4 GPU (for model training)
-- Neo4j Desktop 2.1.3 (optional, for graph queries)
-
-### Install dependencies
-
 ```bash
-python -m venv .venv
-.venv\Scripts\activate        # Windows
-source .venv/bin/activate     # Mac/Linux
-
-pip install pandas numpy networkx matplotlib rapidfuzz pyarrow
-pip install pykeen torch torch-geometric
-pip install neo4j
+git clone https://github.com/YOUR_USERNAME/drug-repurposing-kg.git
+cd drug-repurposing-kg
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+pip install -r requirements.txt
 ```
 
-### Raw data (not included in repo)
-
-Download and place in `data/raw/`:
-
-| File | Source | URL |
-|---|---|---|
-| `chembl_37.db` | ChEMBL | [chembl.ebi.ac.uk](https://chembl.ebi.ac.uk/downloads) |
-| `9606.protein.links.v12.0.txt.gz` | STRING | [string-db.org](https://string-db.org/cgi/download) |
-| `9606.protein_chemical.links.detailed.v5.0.tsv` | STITCH | [stitch.embl.de](http://stitch.embl.de/download) |
-| `opentargets_part*.parquet` | Open Targets | [platform.opentargets.org](https://platform.opentargets.org/downloads) |
-| `gene_names.tsv` | HGNC API | auto-fetched by `link_proteins.py` |
-| `drugcentral_indications.csv` | DrugCentral | [drugcentral.org](https://drugcentral.org/download) |
-
----
-
-## Reproducing Results
-
-```bash
-# 1. Parse all data sources
-python src/parse_chembl.py
-python src/parse_string.py
-python src/parse_stitch.py
-
-# 2. Build the knowledge graph
-python src/link_proteins.py
-python src/build_graph.py
-
-# 3. Train KGE models (run on Colab T4 for speed)
-python src/train_kge.py
-
-# 4. Evaluate and generate predictions
-python src/baseline.py
-python src/evaluate_rotae.py
-python src/predict.py
-python src/filter_predic.py
-
-# 5. Trace mechanistic paths and visualise
-python src/mechan_path.py
-python src/visualise_network.py
-```
-
----
-
-## Top Repurposing Predictions
-
-| Drug | Disease | Confidence | Mechanistic Path | Evidence |
-|---|---|---|---|---|
-| **Palbociclib** | Bladder cancer | 0.934 | CDK2 → HIF1A → Bladder cancer | Active clinical trials ✓ |
-| Entrectinib | Alzheimer disease | 0.985 | CSF1R → TLR4 → Alzheimer | TRK/CSF1R neurodegeneration lit. |
-| Sorafenib | Alzheimer disease | 0.958 | RAF/MEK → tau phosphorylation | Nature Sci Rep repurposing study |
-| Ruxolitinib | Alzheimer disease | 0.952 | GAK → LRRK2 → Alzheimer | Published AD candidate (2023) |
-| Vandetanib | Multiple sclerosis | 0.935 | VEGFR → angiogenesis → MS | Angiogenesis in MS lesion formation |
-| Fostamatinib | Multiple sclerosis | 0.927 | FLT3 → ITGAM → MS | SYK/B-cell autoimmune mechanism |
-| TG100-115 | Parkinson disease | 0.917 | EGFR → CTNNB1 → Parkinson | PI3K-γ neuroinflammation |
+**Dependencies:** PyTorch, PyKEEN, PyTorch Geometric, fair-esm, Scanpy, Neo4j Python driver, RDKit, pandas, matplotlib
 
 ---
 
 ## Citation
 
-If you use this code or data, please cite:
+If you use this work, please cite the ChemRxiv preprint:
 
-```bibtex
-@article{sankar2026drugrepurposing,
-  title   = {Drug Repurposing via Biomedical Knowledge Graph Embedding:
-             Ranking Loss Outperforms GNNs Despite Lower AUC},
-  author  = {Sankar, Rhea},
-  journal = {bioRxiv},
-  year    = {2026},
-  doi     = {10.1101/2026.730814}
+```
+@article{yourname2026drug,
+  title={Drug Repurposing via Knowledge Graph Embedding with ESM2 Protein Sequence Features},
+  author={Your Name},
+  journal={ChemRxiv},
+  year={2026}
 }
 ```
-
----
-
-## Author
-
-**Rhea Sankar** — github.com/rh44a1

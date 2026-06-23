@@ -1,98 +1,41 @@
-# ── Python ────────────────────────────────────────────────────────────────────
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Large data files
+data/raw/
+data/processed/triples.csv
+data/processed/protein_protein.csv
+data/processed/stitch.csv
+data/processed/splits/
+*.gz
+*.tsv
+
+# Model/embedding files (too large)
+*.pkl
+*.pt
+*.zip
+
+# Python
 __pycache__/
-*.py[cod]
+*.pyc
 *.pyo
 *.pyd
 .Python
-*.egg-info/
-dist/
-build/
-.eggs/
 
-# ── Virtual environments ───────────────────────────────────────────────────────
-.venv/
-venv/
-env/
-ENV/
-
-# ── Jupyter ────────────────────────────────────────────────────────────────────
+# Jupyter
 .ipynb_checkpoints/
-*.ipynb_checkpoints
-# uncomment below if you don't want to push notebooks at all
-# *.ipynb
+*.ipynb
 
-# ── Large raw data files (too big for GitHub) ─────────────────────────────────
-data/raw/chembl_37.db
-data/raw/*.db
-data/raw/*.parquet
-data/raw/*.h5
-data/raw/*.hdf5
-data/raw/protein_protein.csv
-data/raw/stitch.csv
-
-# ── Model weights (too big for GitHub) ────────────────────────────────────────
-models/
-*.pkl
-*.pt
-*.pth
-*.bin
-*.ckpt
-
-# ── Processed data (regeneratable from scripts) ───────────────────────────────
-# comment out if you WANT to push processed CSVs
-# data/processed/
-
-# ── OS junk ───────────────────────────────────────────────────────────────────
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# ── IDE / editor ──────────────────────────────────────────────────────────────
+# IDE
 .vscode/
 .idea/
-*.swp
-*.swo
-*~
 
-# ── Credentials / secrets ─────────────────────────────────────────────────────
+# OS
+.DS_Store
+Thumbs.db
+
+# Env vars
 .env
-*.env
-secrets.py
-config_local.py
-credentials.json
-
-# ── Neo4j ─────────────────────────────────────────────────────────────────────
-neo4j/data/
-neo4j/logs/
-neo4j/import/
-
-# ── Logs and temp files ───────────────────────────────────────────────────────
-*.log
-*.tmp
-*.temp
-logs/
-tmp/
-
-# ── PyKEEN training artifacts ─────────────────────────────────────────────────
-results/
-training_loop/
-checkpoints/
-
-# ── Figures (keep the final ones, ignore intermediate) ────────────────────────
-# comment out if you want to push all figures
-# *.png
-# *.pdf
-
-data/raw/
-data/processed/kg.pkl
-data/processed/splits/
-data/processed/protein_protein.csv
-data/processed/stitch.csv
-
-src/scratch/
-
-models/
-*.zip
-*.tsv.gz
-*.gz
-data/processed/triples.csv
+.env.local
