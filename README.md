@@ -52,7 +52,7 @@ Beyond link prediction scores, the model traces interpretable Drug → Protein �
 
 **Example: Entrectinib → Alzheimer's Disease**
 
-![Mechanistic Pathway: Entrectinib → Alzheimer Disease](assets/entrectinib_alzheimers_pathway.png)
+![Mechanistic Pathway: Entrectinib → Alzheimer Disease](data/processed/network_visualization.png)
 
 *Entrectinib targets CSF1R, which interacts with TLR4 and PIK3R1 — both associated with Alzheimer's disease via the neuroinflammation axis. This path was surfaced automatically from the KG structure.*
 
